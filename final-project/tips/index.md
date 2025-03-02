@@ -7,3 +7,16 @@ This section will provide helpful tips on how to create a good projects
 ```{tableofcontents}
 
 ```
+
+---
+layout: default
+title: Table of Contents
+---
+
+# Table of Contents
+
+{% for file in site.pages %}
+  {% if file.path contains '.md' and file.path != 'index.md' %}
+  - [{{ file.title | default: file.path }}]({{ file.url }})
+  {% endif %}
+{% endfor %}

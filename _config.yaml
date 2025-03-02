@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+collections:
+  docs:
+    output: true
+  guides:
+    output: true
