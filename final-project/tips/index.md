@@ -4,5 +4,5 @@ This section will provide helpful tips on how to create a good projects
 
 - [Discover](discovery.md)
 - [Use of Machine Learning](ML.md)
-- [presentation](presentations.md)
+- [presentation](presentation.md)
 - [report](report.md)

@@ -7,11 +7,12 @@ This is an overview of the deliverables at the various stages of your Final Proj
 ## Summary
 
 During this Final Project you will have four dates to deliver the following:
-1) (20 pts) Discovery Document and Raw Data 
-2) (15 pts) Data Organization: Sketches of plots, Reduced Data, Starter Code  
-3) (30 pts) Final Code and Report  
-4) (20 pts) Challenge Tasks (Due with #2 and/or #3)
-5) (15 pts) Final Presentation  
+
+1. (20 pts) Discovery Document and Raw Data 
+2. (15 pts) Data Organization: Sketches of plots, Reduced Data, Starter Code  
+3. (30 pts) Final Code and Report  
+4. (20 pts) Challenge Tasks (Due with #2 and/or #3)
+5. (15 pts) Final Presentation  
 
 ## #1: Discovery Document  
 You will deliver the following data organization [here](organize.md)
