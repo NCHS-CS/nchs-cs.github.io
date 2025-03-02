@@ -14,13 +14,13 @@ During this Final Project you will have four dates to deliver the following:
 5) (15 pts) Final Presentation  
 
 ## #1: Discovery Document  
-You will deliver the following:  
+You will deliver the following data organization [here](organize.md)
 * A Google Document (described [here](discovery.md)).
 * A Link to a Google Share that holds all your raw DATA. The link will be in the document.
 
 ## #2: Data Organization  
 You will deliver the following:  
-* Reduced and partially organized dataset uploaded to `Replit`  
+* Reduced and partially organized dataset uploaded to `GitHub`  
 * Code that partially organizes the data   
 * Sketches of target plots  
 * Perhaps some Unit Tests (Challenge Goal)  
@@ -30,16 +30,9 @@ You will deliver the following:
 You will deliver a polished research document as described [here](final.md). The document will focus on the plots and the insights they provide.  
 
 ## #4 Challenge Tasks  
-The details for these are listed in the <a href="discovery.html#challenges">Discovery Document</a>.    
+The details for these are listed in the Discovery Document</a>.    
 
 You will implement and deliver these either with the `Data Organization` or `Final Code and Report` deliverable.  
 
 ## #5: Final Presentation
-The Final Presentation will be your **story**--a verbal presentation of your Data Science results colored by your subjective journey through the project. You will introduce your research topic, provide context and goals. In short, show plots and explain the results. You will have a slide deck that is almost exclusively a collection of the plots that tell a story.  
-
-
-## Table of Contents
-
-```{tableofcontents}
-
-```
+The [Final Presentation](presentation.md) will be your **story**--a verbal presentation of your Data Science results colored by your subjective journey through the project. You will introduce your research topic, provide context and goals. In short, show plots and explain the results. You will have a slide deck that is almost exclusively a collection of the plots that tell a story.  
