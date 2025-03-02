@@ -2,7 +2,7 @@
 
 This section will provide helpful tips on how to create a good projects
 
-[Discover](discovery.md)
-[MD](ML.md)
-[presentation](presentations.md)
-[report](report.md)
+- [Discover](discovery.md)
+- [Use of Machine Learning](ML.md)
+- [presentation](presentations.md)
+- [report](report.md)

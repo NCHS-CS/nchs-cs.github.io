@@ -1,6 +1,4 @@
-## IDP
+# IDP Final Project
 
-### IDP Final Project
-
-[Handout](final-project/index.md)
-[Tips](final-project/tips/index.md)
+- [Handout](final-project/handouts/index.md)
+- [Tips](final-project/tips/index.md)

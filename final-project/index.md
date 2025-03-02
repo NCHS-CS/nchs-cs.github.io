@@ -1,4 +1,4 @@
-# <i class="fas fa-layer-group fa-fw"></i> Final Project
+# <i class="fas fa-layer-group fa-fw"></i> IDP Final Project
 
 ```{tableofcontents}
 
