@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "NCHS CS Home"
 permalink: /index
 ---
