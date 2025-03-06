@@ -62,8 +62,7 @@ You should:
 
 Here is an short example. Your dataset documentation is likely to be longer!   
 
-```{admonition} Sample Writeup
-:class: note
+
 **Datasets Summary:**   
 All the data can be found on this [Google Folder](https://support.google.com/drive/answer/7166529?hl=en).  
 
@@ -105,7 +104,8 @@ It would be valuable to track the changes of graduation rates over time as relat
 The School Districts don't map easily across datasets. One dataset uses a number while the other uses a string. I may need to manually create a mapping dataset that allows me to join the two together.  
 
 It would be good to geospatially plot graduation rates, but the geometry data that I've found so far is only by county while the school districts can span many counties. I may have to manually pick, or randomly guess, which county a school district mostly represents. Or, perhaps I can locate geometry for the school districts themselves. 
-```
+
+
 ## Challenges
 Challenge goals help us to define expectations while still offering flexibility for you to design your own project. Meeting the requirements of a challenge goal is described here. 
 
@@ -122,12 +122,12 @@ Challenge goals help us to define expectations while still offering flexibility 
 * **New Library**: Learn a new Python library and use it in your project in a significant way to help with your analysis. Part of this class is being able to learn libraries in Python. Show that you are able to take what you’ve learned in the context of learning a library we have not discussed in-depth in this course. Here are some recommended libraries.
     * Download from Web: [requests](https://2.python-requests.org/en/master/)
     * Scientific Computing: [SciPy](https://www.scipy.org/)
+    * Folium for interactive geo plots:[Folium](https://python-visualization.github.io/folium/latest/getting_started.html)
     * Natural Language Processing: [spaCy](https://spacy.io/)
     * Advanced/Interactive Visualizations: [altair](https://altair-viz.github.io/) or [plotly](https://plot.ly/python/).  
         * Note that interactive plots work best for data that has lots of different filtering options. For example: filter by year, by age, by gender, by position. 
     
 ```{admonition} Interactive Note
-:class: important
 Note that you need to **make a video** of the interaction with your plots.  
 ```
 
@@ -136,31 +136,35 @@ The best approach is to start with a problem that interests you, and then look f
 
 There are MANY sources of data and you can seek out anything and everything you can get your hands on. Google will be your friend for finding a dataset.Here are some sources for you to explore:  
 
+### Recommended datasets to use for this project
+
+1. Kaggle Datasets (`Blocked at NCHS`): Thousands of datasets across domains (e.g., health, sports) with example notebooks. Ideal for beginners.
+2. [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) Classic datasets for machine learning (e.g., Iris, Wine Quality). Structured and reliable.
+3. [Google Dataset Search](https://datasetsearch.research.google.com/): A search engine for datasets from various sources. Helps students find project-specific data.
+4. [Data.gov](https://data.gov/): U.S. government open data (e.g., education, climate). Authoritative and real-world focused.
+5. [World Bank Data Catalog](http://data.worldbank.org/data-catalog): Global development data (e.g., GDP, health stats). Great for economic or social analyses.
+6. [NASA Open Data Portal](https://data.nasa.gov/browse): Space, climate, and earth science data. Engaging for science enthusiasts.
+7. [FiveThirtyEight](https://data.fivethirtyeight.com/): Datasets from articles on politics, sports, etc. Accessible and student-friendly.
+8. [Pew Research Center](https://www.pewresearch.org/datasets/): Public opinion and demographic data. Useful for social science projects.
+9. [UNdata](https://data.un.org/datamartinfo.aspx): United Nations stats on global issues (e.g., poverty, education). Broad and impactful.
+10. [IMDb Datasets](https://developer.imdb.com/non-commercial-datasets/): Movie and entertainment data. Fun for media-related projects.
+
+### Local Bonus:
+
+* [Data.seattle.gov](https://data.seattle.gov) for Seattle open government data or [data.wa.gov](https://data.wa.gov): Seattle or Washington state data (e.g., transit, schools). Relevant for North Creek students.
+
 * A variety of data sets are available from [UW Libraries](http://guides.lib.washington.edu/content.php?pid=135867&sid=1165959)  
+
+### Other datasets you may find usueful
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - large variety of maintained data sets  
 
 * [Baron Schwartz’s list of datasets](http://www.mysqlperformanceblog.com/2011/02/01/sample-datasets-for-benchmarking-and-testing/). Some of these are themselves rich lists of datasets, such as the Amazon AWS public data sets.  
 
-* [Data.gov](http://www.data.gov/) for U.S. open government data, [data.wa.gov](https://data.wa.gov/) for Washington state open government data, and [data.seattle.gov](https://data.seattle.gov/) for Seattle open government data  
-
-* [SQLShare](https://sqlshare.escience.washington.edu/): public scientific datasets. Some require considerable knowledge to interpret, others are easier to understand. You can select “All datasets” and then filter by keyword, or you can select a tag from among those in the left column.  
-
 * [Reddit Data Sets](https://www.reddit.com/r/datasets/)  
-
-* [Civic Data Sets for the Pacific Northwest](http://nwdata.org/)  
 
 * [An archive of datasets distributed with the R statistical language](https://vincentarelbundock.github.io/Rdatasets/)
 
-* [30 Places to Find Open Data on the Web Visual.ly](http://blog.visual.ly/data-sources/)  
-
 * [Office for National Statistics (UK)](http://www.statistics.gov.uk/default.asp) a repository of detailed statistics about Great Britain and Northern Ireland  
 
-* [World Bank Data Catalog](http://data.worldbank.org/data-catalog)  
-
-* [CDC NCHS Data](http://www.cdc.gov/nchs/data_access/data_tools.htm) - CDC’s National Center for Health Statistics Data Access  
-
-* [Machine Learning Repository](http://archive.ics.uci.edu/ml/) - large variety of maintained data sets  
-
-* [For datasets used in CSE 163 Lessons](https://courses.cs.washington.edu/courses/cse163/21su/files/data/lecture-readings) (remember, these can’t be the central part of your project)
-
+* [CDC NCHS Data](https://data.cdc.gov/) - CDC’s National Center for Health Statistics Data Access  

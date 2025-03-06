@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NCHS CS Home"
+permalink: /index
+---
+
 # IDP Final Project
 
 ![Final Project](_static/idp_final_project.png)
