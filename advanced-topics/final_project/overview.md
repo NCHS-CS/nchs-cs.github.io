@@ -18,22 +18,31 @@
 
 Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions.   GUI applications are preferred. Console is okay if sufficiently complex. 
 
+
+###  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
+
+1. Project Proposal (Phase 1 & 2)
+2. Project Code (in GitHub)
+3. Task List (Google Sheets)
+4. Learnings Journal
+5. [Design Document](design-document.md)
+6. Introductory Video?
+7. Presentation / Demo (in class)
+
+##  2. <a name='GradingRubric'></a>Grading/Rubric
+
 ##  1. <a name='Timeline'></a>Timeline
 
 You will have approximately X weeks to complete your final project. 
 
-##  2. <a name='GradingRubric'></a>Grading/Rubric
+We will start on the final project after Tic Tac Toe. Assume earliest start would be **week 12** (2025-03-16). We have at most until **week 24** to complete all activities; which will be 12 weeks.
 
-###  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
+You will break your task list down into weekly goals with the following high level milestone goals for the overall project.
 
-1. Project Code (in GitHub)
-2. Task List (Google Sheets)
-3. Presentation / Demo (in class)
-
-- Functionality must be well understood and documented before the project begins.
-- Quantity: What features are present/attempted? How close to done? Effort demonstrated.
-- Quality: How many bugs are present, and/or severity of bugs? 
-- Polish and User Design is also important. Attention to detail. Usability.
+1. Project Proposal Phase 1 - Week ?
+2. Project Proposal Phase 2 - Week ?
+3. [Design Document](design-document.md)
+4. Mid-point demo & peer review
 
 ###  2.2. <a name='Rubric'></a>Rubric
 
