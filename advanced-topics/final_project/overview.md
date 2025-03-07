@@ -1,29 +1,45 @@
+<!-- vscode-markdown-toc -->
+* 1. [Timeline](#Timeline)
+* 2. [Grading/Rubric](#GradingRubric)
+	* 2.1. [Project Artifacts](#ProjectArtifacts)
+	* 2.2. [Rubric](#Rubric)
+		* 2.2.1. [**Functionality (50%)**](#Functionality50)
+		* 2.2.2. [**Documentation/Unit Tests (30%)**](#DocumentationUnitTests30)
+		* 2.2.3. [**Professionalism (20%)**](#Professionalism20)
+* 3. [Past Project Examples](#PastProjectExamples)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 # Final Project for Advanced Topics
 
-Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions. 
+Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions.   GUI applications are preferred. Console is okay if sufficiently complex. 
 
-## Grading/Rubric
+##  1. <a name='Timeline'></a>Timeline
 
+You will have approximately X weeks to complete your final project. 
 
-### Project Artifacts
+##  2. <a name='GradingRubric'></a>Grading/Rubric
 
-- 
+###  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
 
-- Data Structures & Algorithms (internal)
-- Must make use of appropriate data structures. (No data structures is a non-starter)
-- Solution/Design is efficient. Program does not lag.
-- Functionality (external)
-- GUI applications are preferred. Console is okay if sufficiently complex. 
+1. Project Code (in GitHub)
+2. Task List (Google Sheets)
+3. Presentation / Demo (in class)
+
 - Functionality must be well understood and documented before the project begins.
 - Quantity: What features are present/attempted? How close to done? Effort demonstrated.
 - Quality: How many bugs are present, and/or severity of bugs? 
 - Polish and User Design is also important. Attention to detail. Usability.
 
-### Rubric
+###  2.2. <a name='Rubric'></a>Rubric
 
 Sure! Here are three separate tables, each corresponding to one of the major categories:  
 
-#### **Functionality (50%)**  
+####  2.2.1. <a name='Functionality50'></a>**Functionality (50%)**  
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -36,7 +52,7 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 
 ---
 
-#### **Documentation/Unit Tests (30%)**  
+####  2.2.2. <a name='DocumentationUnitTests30'></a>**Documentation/Unit Tests (30%)**  
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -46,10 +62,12 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 
 ---
 
-#### **Professionalism (20%)**  
+####  2.2.3. <a name='Professionalism20'></a>**Professionalism (20%)**  
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
 | **Demo Days** | Clear achievements made during each demo. Shared learning along with functionality. Worksheet is complete. | Some progress is demonstrated. Worksheet has some updates. | Progress is missing or too small. Worksheet is missing important information. | No progress is discernible. Worksheet is inadequate. |
 | **Formal Presentation** | Thorough presentation of project: functionality, learnings, and experience. Professional slides and/or presentation. | Demonstrates functionality and some insight into the development experience. No slides necessary. Reasonable quality of presentation. | Falls short of sharing functionality or experience. Presentation lacks quantity or quality. | Missing or woefully disorganized, lacking details. |
 | **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
+
+##  3. <a name='PastProjectExamples'></a>Past Project Examples
