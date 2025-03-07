@@ -1,4 +1,0 @@
----
-BUNDLE_SSL_VERIFY_MODE: "0"
-BUNDLE_MIRROR__HTTPS://RUBYGEMS__ORG/: "http://rubygems.org"
-JEKYLL_LOG_LEVEL=info jekyll build

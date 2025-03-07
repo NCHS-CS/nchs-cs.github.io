@@ -1,0 +1,9 @@
+{
+    "forwardPorts": [8000],
+    "portsAttributes": {
+      "4000": {
+        "visibility": "public"
+      }
+    },
+    "postCreateCommand": "rvm use 3.2.3 --default && bundle install"
+  }
