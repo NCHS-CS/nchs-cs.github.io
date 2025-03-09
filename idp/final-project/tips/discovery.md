@@ -28,7 +28,7 @@ The ultimate focus of this deliverable is to **understand** your data.
 You will extensively document your data to illustrate that you understand it. Here are some things that you should document:  
 
 * **Data Collection**: Explain when and how the data was collected. Explain what biases might be present in the data.  
-* **Data Source**: Provide the URL where the data was collected so that Mr. Stride can download the data himself. Sometimes a site will have various fields to fill out before the data can be downloaded. These steps will not alter the URL seen in the address bar which can be confusing and add difficulty to the process of downloading the data again. Be sure you provide instructions on how to download your data.  
+* **Data Source**: Provide the URL where the data was collected so that it can be replicated to download the data to verify testing this. Sometimes a site will have various fields to fill out before the data can be downloaded. These steps will not alter the URL seen in the address bar which can be confusing and add difficulty to the process of downloading the data again. Be sure you provide instructions on how to download your data.  
 
 * **Column Descriptions**: Identify the important columns you will work with. You may have only one or two important columns. Or, perhaps you’ll have 20! Find a way to present your information in an easy to read format, such as a table. Here are things you should describe for every important column:  
     * **Name**: Provide column name as found in the file.  
@@ -60,6 +60,6 @@ In short, you cannot let web-scraping be a roadblock to your Data Science resear
 
 ```{admonition} Warning!
 :class: warning
-While using the internet to help you scrape a webpage is acceptable, you are still required to **cite** the specific source and **understand** the code in your project. To avoid uncomfortable interviews with Mr. Stride, add comments in your code that amply describe how it all works.  
+While using the internet to help you scrape a webpage is acceptable, you are still required to **cite** the specific source and **understand** the code in your project. To avoid uncomfortable interviews, add comments in your code that amply describe how it all works.  
 ```
 

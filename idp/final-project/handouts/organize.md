@@ -25,7 +25,7 @@ Things NOT necessary for this deliverable:
 ## Sketches of Plots
 Think about the types of plots you want to create and how those could answer the questions you've posed. Be creative and hypothetical in this step. Imagine what a plot would look like and then sketch it out by hand or using Paint.  
 
-The goal is to imagine what your plots might look like while not constraining yourself by your coding abilities. Consider ways to convey information while assuming data values. If you find that you're drawing simple, repetitive bar plots or line plots, then you need to dig deeper into your creativity. Get some inspiration by looking at other published reports or at the Visualizations on <a href="../../visualizations/case_study_dist.html">IDP MrStride</a>.  
+The goal is to imagine what your plots might look like while not constraining yourself by your coding abilities. Consider ways to convey information while assuming data values. If you find that you're drawing simple, repetitive bar plots or line plots, then you need to dig deeper into your creativity. Get some inspiration by looking at other published reports or at the Visualizations <a href="../../visualizations/case_study_dist.html">here</a>.  
 
 ```{admonition} Good Features
 Fabulous sketches will:  
@@ -80,18 +80,19 @@ There are some positive realizations from doing these sketches that will impact 
 
 ![Sample Sketch](../../_static/fp_movie_sketches.png)
 ```
-## Replit Project
-Your code is expected to be delivered on Replit.  
+## GitHub Project
 
-The code must run on replit or have an explanation in the `readme.md` file explaining the steps to run the code locally.  
+Your code is expected to be delivered on GitHub.  
 
-You must follow the structure found in the template project. The Replit project has several important folders and files describe below.  
+The code must run from a new clone from GitHub with an explanation in the `readme.md` file explaining the steps to run the code locally.  
+
+You must follow the structure found in the template project. The GitHub project has several important folders and files describe below.  
 
 ### Folders
 You must make use of the **Folders** provided:  
 * `data_organized` : This will contain data that is small enough for consumption and ready to be plotted. If the raw data from the data sources is dirty or too big for quick and repeated consumption, you need to reduce, normalize and organize the data first. Store the raw data in the raw_data folder. After you've cleaned and organized it, save the processed data into this folder. However, if the raw data is clean and small enough, and it does not need any preprocesssing, you can store the raw data here.  
 * `plots` : All of your generated plots need to be saved here. It should contain only images.  
-* `raw_data` : Dirty data goes here. Replit isn't so happy to have very large datasets uploaded, so if your data is very large, do not upload it. Instead, provide a link to a shared Google Drive that contains all of your raw data.  
+* `raw_data` : Dirty data goes here. For any very large datasets (>1GB) do not upload it. Instead, provide a link to a shared Google Drive that contains all of your raw data.  
 * `test_data` : If you do a lot of data organization, you will want to test your code with test data. Store that test data here. Furthermore, in some uncommon cases you will have plots that will need to be "tested" by plotting fake (or test) data.
 
 ### Files
@@ -104,7 +105,7 @@ You must make use of the **Files** provided:
     * reduce the size of large datasets to something more manageable  
     * clean data: reduce/rename columns, normalize strings, adjust values  
     * generate data through relatively complicated calculations  
-* `readme.md` : This file contains instructions to help Mr. Stride understand extended files & folders in your project. Also, if some/all of your project will not run on Replit, provide instructions for how to setup and run your code locally. Ideally, only some parts of your project would require custom setup while the rest will run on Replit.  
+* `readme.md` : This file contains instructions to explain the extended files & folders in your project. Also, if some/all of your project will not run from GitHub, provide instructions for how to setup and run your code locally. Ideally, only some parts of your project would require custom setup while the rest will run without changes.  
 * `run_tests.py` : This is the entry point to running all of your tests. You can do simple testing as we have done all year in your homework assignments. Or, you can leverage Python's Unit Test Framework which is a bit more complicated, but super cool.  
 
 ## Preprocessing Data

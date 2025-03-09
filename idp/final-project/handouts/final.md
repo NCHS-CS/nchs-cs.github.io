@@ -16,7 +16,7 @@ The code will not be directly graded because it is simply the tool to generate t
 ## Overview
 You will deliver the following:  
 * A written report as a PDF file  
-* Final code submission in Replit
+* Final code submission in GitHub
 
 Things NOT necessary for this deliverable:  
 * Final Presentation  
