@@ -5,9 +5,18 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"> <!-- Custom styles -->
 </head>
-<body class="main-content">
-    <article class="markdown-body">
+<body>
+    <div class="page-header">
+        <span class="project-name">
+            <a href="{{ '/' | relative_url }}">
+                <img src="{{ '/static/updatePNG_NCHS_JaguarHeadLogo__2__small.png'| relative_url }}" width="100" >
+            </a>
+            {{ page.title }}
+        </span>
+        <div class="project-tagline">{{ page.subtitle }}</div>
+    </div>
+    <div class="markdown-body main-content">
         {{ content }}
-    </article>
+    </div>
 </body>
 </html>

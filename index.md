@@ -1,12 +1,16 @@
 ---
 layout: default
-title: "NCHS CS Home"
+title: "North Creek High School"
+subtitle:  "Computer Science"
 permalink: /index
 ---
 
-# IDP Final Project
+![NCHS Campus](/static/NCHS-Building-1-South-20170901.jpg)
 
-![Final Project](static/idp_final_project.png)
+# Advanced Programming Topics
 
-- [Handout](final-project/handouts/index.md)
-- [Tips](final-project/tips/index.md)
+- [Final Project Directions](advanced-topics/final-project/index.md)
+ 
+# Intermediate Data Programming
+
+- [Final Project Directions](idp/final-project/handouts/index.md)
