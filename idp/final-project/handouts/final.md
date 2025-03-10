@@ -14,6 +14,7 @@ Your code should be completely finalized and submitted. The code will be reviewe
 The code will not be directly graded because it is simply the tool to generate the product of value--the report!  
 
 ## Overview
+
 You will deliver the following:  
 * A written report as a PDF file  
 * Final code submission in GitHub
