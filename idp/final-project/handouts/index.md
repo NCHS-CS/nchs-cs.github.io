@@ -14,38 +14,37 @@ Embark on a journey where you'll harness your data programming prowess to transf
 
 During this Final Project you will have four dates to deliver the following items. This is an overview of the deliverables at the various stages of your Final Project.
 
-1. (20 pts)[Discovery Document and Raw Data ](discovery.md))
-2. (30 pts)[Data Organization](organize.md) - Sketches of plots, Reduced Data, Starter Code
-3. (30 pts)[Final Code & Research Document](final.md)
-4. (20 pts) [Challenge Tasks](challenges.md) -Due with #2 and/or #3
-5. (15 pts)[Final Presentation](presentation.md)
+1. (?? pts) [Discovery Document and Raw Data](discovery.md)
+2. (?? pts) [Data Organization](organize.md) - Sketches of plots, Reduced Data, Starter Code
+3. (?? pts) [Final Code & Research Document](final.md)
+4. (?? pts) [Challenge Tasks](challenges.md) -Due with #2 and/or #3
+5. (?? pts) [Final Presentation](presentation.md)
 
 [Project Tips](idp/final-project/tips/index.md)
 
-## #1: Discovery Document  
+## #1: [Discovery Document and Raw Data](discovery.md)
 
-You will deliver the following data organization [here](organize.md)
-* A Google Document (described [here](discovery.md)).
-* A Link to a Google Share that holds all your raw DATA. The link will be in the document.
+You will deliver your initial proposed project and scope.
 
-## #2: Data Organization  
+* A Google Document.
+* Your GitHub of your raw_data (or link to data > 1GB)
+
+## #2: [Data Organization](organize.md)
 
 You will deliver the following:  
-* Reduced and partially organized dataset uploaded to `GitHub`  
+* Reduced and partially organized dataset uploaded to `GitHub`
 * Code that partially organizes the data   
 * Sketches of target plots  
 * Perhaps some Unit Tests (Challenge Goal)  
-* Perhaps Web Scraped data or data downloaded via API (Challenge Goal)  
+* Perhaps Web Scraped data or data downloaded via API (Challenge Goal)
 
-## #3: Final Report
+## #3: [Final Code & Research Document](final.md)
 
-You will deliver a polished research document as described [here](final.md). The document will focus on the plots and the insights they provide.  
+You will deliver a polished research document. The document will focus on the plots and the insights they provide.  
 
-## #4 Challenge Tasks  
-
-The details for these are listed in the Discovery Document.    
+## #4 [Challenge Tasks](challenges.md)
 
 You will implement and deliver these either with the `Data Organization` or `Final Code and Report` deliverable.  
 
-## #5: Final Presentation
-The [Final Presentation](presentation.md) will be your **story**--a verbal presentation of your Data Science results colored by your subjective journey through the project. You will introduce your research topic, provide context and goals. In short, show plots and explain the results. You will have a slide deck that is almost exclusively a collection of the plots that tell a story.  
+## #5: [Final Presentation](presentation.md)
+This will be your **story** -- a verbal presentation of your Data Science results colored by your subjective journey through the project. You will introduce your research topic, provide context and goals. In short, show plots and explain the results. You will have a slide deck that is almost exclusively a collection of the plots that tell a story.  

@@ -6,9 +6,10 @@ subtitle: "Final Project Deliverables - Data Organization"
 
 ## Overview
 You will deliver the following:  
+
 * Reduced data through any `pre-processing`.
 * Code that will:
-    * Collect Data (if there is any `web scraping` or use of `API`)  
+    * Collect Data (if there is any `web scraping` or use of other tools)  
     * Reduce, Filter and Organize the data
     * Test (if you are doing the Unit Test Challenge)
 * Sketches of target plots  
@@ -23,6 +24,7 @@ Things NOT necessary for this deliverable:
 - Final Presentation
 
 ## Sketches of Plots
+
 Think about the types of plots you want to create and how those could answer the questions you've posed. Be creative and hypothetical in this step. Imagine what a plot would look like and then sketch it out by hand or using Paint.  
 
 The goal is to imagine what your plots might look like while not constraining yourself by your coding abilities. Consider ways to convey information while assuming data values. If you find that you're drawing simple, repetitive bar plots or line plots, then you need to dig deeper into your creativity. Get some inspiration by looking at other published reports or at the Visualizations <a href="../../visualizations/case_study_dist.html">here</a>.  

@@ -6,9 +6,10 @@ subtitle: "Final Project Deliverables - Discovery"
 
 ## Overview
 
-You will deliver the following:  
-* A Google Document (described below).
-* A Link to a Google Folder that holds all your **raw data**. Your link will be in the document.  
+You will deliver the following:
+
+* A Google Document (described below). The main goal of this document is to create the "context and scope" of what you are answering. What is your "research topic" in 3 bullet questions.
+* Submit to GitHub your folder of raw_data (or links to a google Google Folder if over 1GB).  
 * Target Challenge Goals
 
 You do not need to have any code written yet, but you may want to use some code to help you learn about the data. For example, you may want to print out the columns or get some statistical information about the data using code.  
@@ -25,9 +26,11 @@ Things NOT necessary for this deliverable:
 * presentation  
 
 ## Document Purpose 
+
 It is a frequent student behavior to dive into a research project without fully understanding what data is available and challenges ahead. This deliverable is to assure that the student has the necessary data and has the understanding of the pending challenges.  
 
 The Discovery Document's purpose is to:  
+
 1. Illustrate that you have found **appropriate data**. The data must be:
  * Large enough (500 lines or more)  
  * Available for download (CSV file format)   
@@ -45,6 +48,7 @@ The Discovery Document's purpose is to:
 
 
 ## Document Sections
+
 Your document will have the following sections:  
 
 * **Title and Author(s).** The title should reflect your specific research questions (not just “CSE 163 Project”).  
@@ -73,7 +77,7 @@ You should:
 
 <details markdown="1"><br>
 
-`Here is an short example. Your dataset documentation is likely to be longer!`
+`Here is a short example. Your dataset documentation is likely to be longer!`
 
 **Datasets Summary:**
 
@@ -128,7 +132,7 @@ The best approach is to start with a problem that interests you, and then look f
 
 There are MANY sources of data and you can seek out anything and everything you can get your hands on. Google will be your friend for finding a dataset.Here are some sources for you to explore:  
 
-### Recommended datasets to use for this project
+### Sample datasets you may use for this project
 
 2. [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) Classic datasets for machine learning (e.g., Iris, Wine Quality). Structured and reliable.
 3. [Google Dataset Search](https://datasetsearch.research.google.com/): A search engine for datasets from various sources. Helps students find project-specific data.
