@@ -9,7 +9,7 @@ subtitle: "Final Project Deliverables - Discovery"
 You will deliver the following:
 
 * A Google Document (described below). The main goal of this document is to create the "context and scope" of what you are answering. What is your "research topic" in 3 bullet questions.
-* Submit to GitHub your folder of raw_data (or links to a google Google Folder if over 1GB).  
+* Submit to GitHub your folder of raw_data (or links to a Google Folder if over 1GB).  
 * Target Challenge Goals
 
 You do not need to have any code written yet, but you may want to use some code to help you learn about the data. For example, you may want to print out the columns or get some statistical information about the data using code.  
