@@ -12,7 +12,7 @@ You should delete the instructions as you fill in each section.
 
 |     |     |
 |-----|-----|
-| <h1>Project Title</h1> |  |
+| **Project Title** |  |
 | Name 1 | `First student name`  |
 | Name 2 | `Second student name` |
 
