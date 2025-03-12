@@ -1,18 +1,21 @@
 # Final Project for Advanced Topics
 
+Embarking on a journey of innovation and mastery, Advanced Topics students will have several dedicated weeks to conceive, design, and develop sophisticated Java applications. From intuitive graphical user interfaces to complex algorithms, each project reflects their commitment to excellence and creativity. Join us in exploring these remarkable creations that exemplify the future of technology.
+
+The initial phase of this work will seem slow to most students as it will be several weeks before we get (should) start coding. That's ok! Larger software projects require more up front planning to avoid having to restart from scratch and throw away a lot of work!
+
 Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions.   GUI applications are preferred. Console is okay if sufficiently complex.
 
-## Table of Contents
-
 <!-- vscode-markdown-toc -->
-* 1. [Timeline](#Timeline)
-* 2. [Grading/Rubric](#GradingRubric)
-	* 2.1. [Project Artifacts](#ProjectArtifacts)
-	* 2.2. [Rubric](#Rubric)
-		* 2.2.1. [**Functionality (50%)**](#Functionality50)
-		* 2.2.2. [**Documentation/Unit Tests (30%)**](#DocumentationUnitTests30)
-		* 2.2.3. [**Professionalism (20%)**](#Professionalism20)
-* 3. [Past Project Examples](#PastProjectExamples)
+- [Final Project for Advanced Topics](#final-project-for-advanced-topics)
+	- [2.1. Project Artifacts](#21-project-artifacts)
+	- [2. Grading/Rubric](#2-gradingrubric)
+	- [1. Timeline](#1-timeline)
+		- [2.2. Rubric](#22-rubric)
+			- [2.2.1. Functionality (50%)](#221-functionality-50)
+			- [2.2.2. Documentation/Unit Tests (30%)](#222-documentationunit-tests-30)
+			- [2.2.3. Professionalism (20%)](#223-professionalism-20)
+	- [3. Past Project Examples](#3-past-project-examples)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -20,16 +23,14 @@ Projects must be approved to assure that they are achievable yet complex enough.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-
 ##  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
 
-1. Project Proposal (Phase 1 & 2)
+1. [Project Proposal (Phase 1 & 2)](project-proposal.md)
 2. Project Code (in GitHub)
 3. Task List (Google Sheets)
 4. Learnings Journal
 5. [Design Document](design-document.md)
-6. Introductory Video?
-7. Presentation / Demo (in class)
+6. Presentation / Demo (in class)
 
 ##  2. <a name='GradingRubric'></a>Grading/Rubric
 
@@ -39,18 +40,19 @@ You will have approximately X weeks to complete your final project.
 
 We will start on the final project after Tic Tac Toe. Assume earliest start would be **week 12** (2025-03-16). We have at most until **week 24** to complete all activities; which will be 12 weeks.
 
-You will break your task list down into weekly goals with the following high level milestone goals for the overall project.
+Your task **must** have weekly goals. You can update these each week but the initial version will remain in your Project Proposal.
 
 1. Project Proposal Phase 1 - Week ?
 2. Project Proposal Phase 2 - Week ?
 3. [Design Document](design-document.md)
 4. Mid-point demo & peer review
+5. Completion - Demo & Final Code
 
 ###  2.2. <a name='Rubric'></a>Rubric
 
-Sure! Here are three separate tables, each corresponding to one of the major categories:  
+The following rubrics break out the assessment by different areas. __This is not yet complete and will have more updates for 2025__
 
-####  2.2.1. <a name='Functionality50'></a>**Functionality (50%)**  
+####  2.2.1. <a name='Functionality50'></a>Functionality (50%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -63,7 +65,7 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 
 ---
 
-####  2.2.2. <a name='DocumentationUnitTests30'></a>**Documentation/Unit Tests (30%)**  
+####  2.2.2. <a name='DocumentationUnitTests30'></a>Documentation/Unit Tests (30%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -73,7 +75,7 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 
 ---
 
-####  2.2.3. <a name='Professionalism20'></a>**Professionalism (20%)**  
+####  2.2.3. <a name='Professionalism20'></a>Professionalism (20%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -82,3 +84,11 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 | **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
 
 ##  3. <a name='PastProjectExamples'></a>Past Project Examples
+
+Following are a set of students previous **Design Documents**. Keep in mind that the template for this years project has been modified from these examples, but they form a good starting point for you to review the level of expectations for the project work.
+
+[Past Student's Design Documents](https://drive.google.com/drive/folders/1HarP8I5OjYZteGM528fq-PHQC0Din5Gg?usp=sharing)
+
+[Past Student's Presentations](https://drive.google.com/drive/folders/1janzBHDEuJSPTm0tTyvf3swXDFIAfNxm?usp=sharing)
+
+[Templates (Work in Progress)](https://drive.google.com/drive/folders/1U9BxZLlpn_2SmHofmbOaRwbWr3EFxFeY?usp=sharing) - These templates are being updated. Do not use yet.

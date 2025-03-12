@@ -15,9 +15,13 @@ permalink: /index
 
 - [Final Project Directions](idp/final-project/handouts/index.md)
 
+# Notes
+
+- Please report broken links to your teacher through the student request form here:
+
 # Change Log
 
-<p>Below are changes to the website. Pay attention to these to review any updates from what you have previously reviewed.</p>
+<p>Below are changes to the website. Pay attention to these. Things change and you don't want to miss an important update.</p>
 
 <ul id="changelog"></ul>
 
@@ -38,9 +42,8 @@ permalink: /index
         filteredCommits.forEach(commit => {
           let entry = document.createElement("li");
           entry.innerHTML = `
-            <strong>${commit.commit.author.date}</strong>: 
-            ${commit.commit.message.replace(commitPrefix, "").trim()} <br>
-            <a href="${commit.html_url}" target="_blank">View Commit</a>
+            <strong>${commit.commit.author.date}</strong>:<nbsp>
+            ${commit.commit.message.replace(commitPrefix, "").trim()} - <a href="${commit.html_url}" target="_blank">View Commit</a>
           `;
           changelog.appendChild(entry);
         });
