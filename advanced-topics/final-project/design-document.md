@@ -127,16 +127,27 @@ As a `who` I want to `behavior` so that I can `benefit`.
 - As a Developer I want to have my game board saved in a file so that I can be data driven and design multiple boards that work without having to change the code.
 - As a Player I want the avatar character to respond to the arrow keys so that I can move my avatar on the screen.
 
-### High Level Architecture
+### Testing Strategy
+
+Define how you are going to test that your code is working correctly, how you will test edge conditions or errors happening and so forth. Make sure to build time in your schedule to get this done.
+
+
+
+### High Level Architecture - Summary
 
 This section will most likely be hard to create.
-Then, ask yourself, “What is the difficult part about the project? How will I solve that problem?” If there is nothing difficult about the project, then the project may not be complex enough. If you don’t know how to solve the problem, ask, “How will I learn to solve that problem?” Explain all of that here.
+
+See [this document](https://drawio-app.com/blog/3-diagrams-every-computer-science-student-should-know) on some high level architecture diagrams that you can consider creating. We'll review and go over some of these in class as well. Feel free to add other **standard** software design diagrams as appropriate to your project.
+
+Ask yourself, “What is the difficult part about the project? How will I solve that problem?” If there is nothing difficult about the project, then the project may not be complex enough. If you don’t know how to solve the problem, ask, “How will I learn to solve that problem?” Explain all of that here.
 
 Lastly, consider what classes you will create, their roles & responsibilities, how your classes will interface with one another, where data will come from, and what data structures will be used. If there are lots of data sources and paths, making a diagram can help add clarity. Many projects will not require a Data Flow Diagram.
 
-### Class Roles & Responsibilities
+#### Diagrams
 
-Start with defining a few classes and their roles & responsibilities. It could be that that will be enough. If you cannot list off at least three classes, the project is not complex enough.
+#### Class Roles & Responsibilities
+
+Builing on the diagrams you created in the last section you should expand on the details for as many of your classes that you can identify and their roles & responsibilities. It could be that that will be enough. If you cannot list off at least three classes, the project is not complex enough.
 
 | Class name | Roles & Responsibilities |
 | :---- | :---- |
@@ -144,11 +155,5 @@ Start with defining a few classes and their roles & responsibilities. It could b
 |  |  |
 |  |  |
 
-### Important Algorithms/Functionality
-
-### Testing Strategy
-
-Define how you are going to test that your code is working correctly, how you will test edge conditions or errors happening and so forth. Make sure to build time in your schedule to get this done.
-
-### Data Flow Diagram and Other Design Details
+#### Important Algorithms/Functionality
 
