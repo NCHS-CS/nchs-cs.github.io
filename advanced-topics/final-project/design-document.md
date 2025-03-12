@@ -145,6 +145,14 @@ Lastly, consider what classes you will create, their roles & responsibilities, h
 
 #### Diagrams
 
+You should consider at a minimum to create the following diagrams:
+
+**Class Diagram**: This diagram illustrates the static structure of a system by showing its classes, attributes, operations, and the relationships among objects. It provides a clear blueprint of the system's architecture, essential for understanding how different components interact. 
+
+**Sequence Diagram**: Depicting the sequence of messages exchanged among objects, sequence diagrams detail how operations are carried out, including the order of interactions. They are instrumental in modeling the dynamic behavior of a system, especially for complex processes. 
+
+**Use Case Diagram**: This diagram captures the functional requirements of a system by illustrating the interactions between users (actors) and the system itself. It helps in identifying and organizing system requirements, ensuring that all user interactions are considered during development. You may decide on a different diagram to this one if your application has minimal user interaction.
+
 #### Class Roles & Responsibilities
 
 Builing on the diagrams you created in the last section you should expand on the details for as many of your classes that you can identify and their roles & responsibilities. It could be that that will be enough. If you cannot list off at least three classes, the project is not complex enough.
