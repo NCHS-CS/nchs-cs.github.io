@@ -1,4 +1,8 @@
-# Final Project for Advanced Topics
+---
+layout: default
+title: "Advanced Topics"
+subtitle: "Final Project for Advanced Topics"
+---
 
 Embarking on a journey of innovation and mastery, Advanced Topics students will have several dedicated weeks to conceive, design, and develop sophisticated Java applications. From intuitive graphical user interfaces to complex algorithms, each project reflects their commitment to excellence and creativity. Join us in exploring these remarkable creations that exemplify the future of technology.
 
@@ -7,15 +11,14 @@ The initial phase of this work will seem slow to most students as it will be sev
 Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions.   GUI applications are preferred. Console is okay if sufficiently complex.
 
 <!-- vscode-markdown-toc -->
-- [Final Project for Advanced Topics](#final-project-for-advanced-topics)
-	- [2.1. Project Artifacts](#21-project-artifacts)
-	- [2. Grading/Rubric](#2-gradingrubric)
-	- [1. Timeline](#1-timeline)
-		- [2.2. Rubric](#22-rubric)
-			- [2.2.1. Functionality (50%)](#221-functionality-50)
-			- [2.2.2. Documentation/Unit Tests (30%)](#222-documentationunit-tests-30)
-			- [2.2.3. Professionalism (20%)](#223-professionalism-20)
-	- [3. Past Project Examples](#3-past-project-examples)
+- [1.1. Project Artifacts](#11-project-artifacts)
+- [1.2. Grading/Rubric](#12-gradingrubric)
+- [1.3. Timeline](#13-timeline)
+	- [1.3.1. Rubric](#131-rubric)
+		- [1.3.1.1. Functionality (50%)](#1311-functionality-50)
+		- [1.3.1.2. Documentation/Unit Tests (30%)](#1312-documentationunit-tests-30)
+		- [1.3.1.3. Professionalism (20%)](#1313-professionalism-20)
+- [1.4. Past Project Examples](#14-past-project-examples)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -23,7 +26,7 @@ Projects must be approved to assure that they are achievable yet complex enough.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-##  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
+##  1.1. <a name='ProjectArtifacts'></a>Project Artifacts
 
 1. [Project Proposal (Phase 1 & 2)](project-proposal.md)
 2. Project Code (in GitHub)
@@ -32,9 +35,9 @@ Projects must be approved to assure that they are achievable yet complex enough.
 5. [Design Document](design-document.md)
 6. Presentation / Demo (in class)
 
-##  2. <a name='GradingRubric'></a>Grading/Rubric
+##  1.2. <a name='GradingRubric'></a>Grading/Rubric
 
-##  1. <a name='Timeline'></a>Timeline
+##  1.3. <a name='Timeline'></a>Timeline
 
 You will have approximately X weeks to complete your final project. 
 
@@ -48,11 +51,11 @@ Your task **must** have weekly goals. You can update these each week but the ini
 4. Mid-point demo & peer review
 5. Completion - Demo & Final Code
 
-###  2.2. <a name='Rubric'></a>Rubric
+###  1.3.1. <a name='Rubric'></a>Rubric
 
 The following rubrics break out the assessment by different areas. __This is not yet complete and will have more updates for 2025__
 
-####  2.2.1. <a name='Functionality50'></a>Functionality (50%)
+####  1.3.1.1. <a name='Functionality50'></a>Functionality (50%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -65,7 +68,7 @@ The following rubrics break out the assessment by different areas. __This is not
 
 ---
 
-####  2.2.2. <a name='DocumentationUnitTests30'></a>Documentation/Unit Tests (30%)
+####  1.3.1.2. <a name='DocumentationUnitTests30'></a>Documentation/Unit Tests (30%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -75,7 +78,7 @@ The following rubrics break out the assessment by different areas. __This is not
 
 ---
 
-####  2.2.3. <a name='Professionalism20'></a>Professionalism (20%)
+####  1.3.1.3. <a name='Professionalism20'></a>Professionalism (20%)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -83,7 +86,7 @@ The following rubrics break out the assessment by different areas. __This is not
 | **Formal Presentation** | Thorough presentation of project: functionality, learnings, and experience. Professional slides and/or presentation. | Demonstrates functionality and some insight into the development experience. No slides necessary. Reasonable quality of presentation. | Falls short of sharing functionality or experience. Presentation lacks quantity or quality. | Missing or woefully disorganized, lacking details. |
 | **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
 
-##  3. <a name='PastProjectExamples'></a>Past Project Examples
+##  1.4. <a name='PastProjectExamples'></a>Past Project Examples
 
 Following are a set of students previous **Design Documents**. Keep in mind that the template for this years project has been modified from these examples, but they form a good starting point for you to review the level of expectations for the project work.
 
