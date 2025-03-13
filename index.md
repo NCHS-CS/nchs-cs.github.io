@@ -17,7 +17,7 @@ permalink: /index
 
 # Notes
 
-- Please report broken links to your teacher through the student request form here:
+- Please report broken links to your teacher through the student request form [here](https://docs.google.com/forms/d/e/1FAIpQLSeFIrdKMCqh8tzNduurg08OI5H9l9lUqZgZ22JB3hDXHpEx7w/viewform)
 
 # Change Log
 
