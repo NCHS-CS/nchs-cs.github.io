@@ -1,6 +1,8 @@
-theme: jekyll-theme-cayman
-collections:
-  docs:
-    output: true
-  guides:
-    output: true
+title: North Creek High School Computer Science
+description: Intermediated Data Programming (IDP) & Advanced Topics (Java)
+theme: just-the-docs
+
+url: https://nchs-cs.github.io/
+
+aux_links:
+  Markdown File Access: https://github.com/NCHS-CS/nchs-cs.github.io

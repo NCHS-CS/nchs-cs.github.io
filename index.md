@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "North Creek High School"
 subtitle:  "Computer Science"
 permalink: /index

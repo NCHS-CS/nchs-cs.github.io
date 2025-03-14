@@ -9,9 +9,9 @@ Projects must be approved to assure that they are achievable yet complex enough.
 * 2. [Grading/Rubric](#GradingRubric)
 	* 2.1. [Project Artifacts](#ProjectArtifacts)
 	* 2.2. [Rubric](#Rubric)
-		* 2.2.1. [**Functionality (50%)**](#Functionality50)
-		* 2.2.2. [**Documentation/Unit Tests (30%)**](#DocumentationUnitTests30)
-		* 2.2.3. [**Professionalism (20%)**](#Professionalism20)
+		* 2.2.1. [Functionality (50%)](#Functionality50)
+		* 2.2.2. [Documentation/Unit Tests (30%)](#DocumentationUnitTests30)
+		* 2.2.3. [Professionalism (20%)](#Professionalism20)
 * 3. [Past Project Examples](#PastProjectExamples)
 
 <!-- vscode-markdown-toc-config
@@ -82,3 +82,7 @@ Sure! Here are three separate tables, each corresponding to one of the major cat
 | **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
 
 ##  3. <a name='PastProjectExamples'></a>Past Project Examples
+
+Following are a set of students previous **Design Documents**. Keep in mind that the template for this years project has been modified from these examples, but they form a good starting point for you to review the level of expectations for the project work.
+
+[Past Student's Design Documents](https://drive.google.com/drive/folders/1HarP8I5OjYZteGM528fq-PHQC0Din5Gg?usp=sharing)
