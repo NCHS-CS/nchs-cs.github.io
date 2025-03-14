@@ -1,18 +1,22 @@
-# Final Project for Advanced Topics
+---
+layout: default
+title: "Advanced Topics"
+subtitle: "Final Project for Advanced Topics"
+---
+
+Embarking on a journey of innovation and mastery, Advanced Topics students will have several dedicated weeks to conceive, design, and develop sophisticated Java applications. From intuitive graphical user interfaces to complex algorithms, each project reflects their commitment to excellence and creativity. Join us in exploring these remarkable creations that exemplify the future of technology.
+
+The initial phase of this work will seem slow to most students as it will be several weeks before we get to start coding. That's ok! Larger software projects require more up front planning to avoid having to restart from scratch and throw away a lot of work!
 
 Projects must be approved to assure that they are achievable yet complex enough. Projects must be in Java, no exceptions.   GUI applications are preferred. Console is okay if sufficiently complex.
 
-## Table of Contents
-
 <!-- vscode-markdown-toc -->
-* 1. [Timeline](#Timeline)
-* 2. [Grading/Rubric](#GradingRubric)
-	* 2.1. [Project Artifacts](#ProjectArtifacts)
-	* 2.2. [Rubric](#Rubric)
-		* 2.2.1. [Functionality (50%)](#Functionality50)
-		* 2.2.2. [Documentation/Unit Tests (30%)](#DocumentationUnitTests30)
-		* 2.2.3. [Professionalism (20%)](#Professionalism20)
-* 3. [Past Project Examples](#PastProjectExamples)
+- [Rubrics](#rubrics)
+- [Project Artifacts](#project-artifacts)
+- [Timeline 2025](#timeline-2025)
+- [Learning Journal](#learning-journal)
+	- [Examples](#examples)
+- [Past Project Examples](#past-project-examples)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -20,69 +24,75 @@ Projects must be approved to assure that they are achievable yet complex enough.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
+## <a name='Rubrics'></a>Rubrics
 
-##  2.1. <a name='ProjectArtifacts'></a>Project Artifacts
+There will be multiple rubrics for this project.
 
-1. Project Proposal (Phase 1 & 2)
-2. Project Code (in GitHub)
-3. Task List (Google Sheets)
-4. Learnings Journal
-5. [Design Document](design-document.md)
-6. Introductory Video?
-7. Presentation / Demo (in class)
+1. *Rubric - Phase 1 - Project Proposal (TBD)*
+2. *Rubric - Phase 2 - Project Proposal Wireframes (TBD)*
+3. *Rubric - Phase 3 - Design Document (TBD)*
+4. [Rubric - Project Completion](rubrics.md)
 
-##  2. <a name='GradingRubric'></a>Grading/Rubric
 
-##  1. <a name='Timeline'></a>Timeline
+## <a name='ProjectArtifacts'></a>Project Artifacts
+
+3. [Design Document (This include 3 phases)](design-document.md)
+4. Project Code (in GitHub) - Links in Daily Tracker
+5. [Task List (Google Sheets)]((https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing)
+6. <a href="#learnings">Learnings Journal</a>
+7. [Design Document](design-document.md)
+8. Presentation / Demo (in class)
+
+##  <a name='Timeline'></a>Timeline 2025
 
 You will have approximately X weeks to complete your final project. 
 
 We will start on the final project after Tic Tac Toe. Assume earliest start would be **week 12** (2025-03-16). We have at most until **week 24** to complete all activities; which will be 12 weeks.
 
-You will break your task list down into weekly goals with the following high level milestone goals for the overall project.
+Your task **must** have weekly goals. You can update these each week but the initial version will remain in your Project Proposal.
 
-1. Project Proposal Phase 1 - Week ?
-2. Project Proposal Phase 2 - Week ?
-3. [Design Document](design-document.md)
-4. Mid-point demo & peer review
+| Date | What |
+| --- | --- | 
+| Wed, Mar 19 | Form & (Brain)Storm<br>Project Design (3 Phases) |
+| Wed, Mar 26 | Project Proposal Phase 1 Due |
+| Wed, Apr 2 | Project Proposal Phase 2 Due |
+| April 7 - 11 | Spring Break |
+| Mon, April 14 | First Design Doc Due<br>Start coding |
+| Mon, April 28 | Mid-point check: Stabilize, Refactor, Redocument |
+| Mon, Jun 2 | Final Design Doc Due<br>Start of Presentations (Seniors First) |
+| Mon, June 9 | Last day for seniors | 
+| ?Tue, June 24? | Last day of school |
 
-###  2.2. <a name='Rubric'></a>Rubric
+## <a name='Learnings'></a>Learning Journal
 
-Sure! Here are three separate tables, each corresponding to one of the major categories:  
+Add to your github doc folder (if not there) a `learnings.md` document with the information below.
 
-####  2.2.1. <a name='Functionality50'></a>**Functionality (50%)**  
+* Update your learnings in your markdown document
+* Write down what you’ve learned (at least weekly)
+* You’ll present this in the formal presentation
 
-| **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
-|---------------------------|----------------------|------------------------|-------------------|------------------|
-| **Quality (Bugs)** | No major bugs or glitches. Program does not crash. All basic use cases work as advertised. Only minor bugs present. | Few major bugs. Program does not crash. Behavior is mostly correct. | Some major bugs. Program seldom crashes. | Major bugs prevalent. Important behavior malfunctions. |
-| **Polish/User Design** | Appearance is clean and professional. No visual or audio bugs. Great attention to detail and creativity. | Appearance is mostly well-organized and neat. No usage issues. | Appearance is somewhat organized. Usage is somewhat difficult. | Appearance is poor. Usage is difficult. |
-| **Quantity (Features)** | Completed all MVP features and then some. Code demonstrates many hours of focused work (6+ hours per week). | Completed all MVP features. Appropriate number of hours is evident (5 hrs/week). | Completed some MVP features. Shows a lack of effort and dedication (3-4 hrs/week). | A long way from appropriate effort and completion. |
-| **Difficulty** | Difficult technology, algorithms, UI, and/or library integration. | Appropriate difficulty. | Lack of apparent or significant learning. | No demonstration of learning. |
-| **Data Structures** | Appropriate in all cases. | Mostly good. | Some poor choices. | Poor choices abound. |
-| **Class Design** | Strong use of all: abstraction, encapsulation, inheritance, polymorphism. | Use of inheritance and encapsulation is good. Reasonable set of classes. | Classes used, but not encapsulated well. Over or under-designed. | Few classes. Bad design. |
+### Examples
 
----
+| Date | What |
+| --- | --- |
+| XX | Became proficient with Maps of Lists |
+| XX | Got much better with Inner Anonymous Classes for customized events| 
+| XX | Learned about PriorityQueue and when that is useful| 
+| XX | Learned how compressed air particles are represented with sound waves| 
+| XX | Learned how to insert nodes into a specific spot in a Tree|
+| XX | Discovered that some of the most elusive bugs, once found, are easy to fix!|
 
-####  2.2.2. <a name='DocumentationUnitTests30'></a>**Documentation/Unit Tests (30%)**  
 
-| **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
-|---------------------------|----------------------|------------------------|-------------------|------------------|
-| **Specification** | All sections are complete, professional, and add value. | All sections are complete, effort is clear. Meets all expectations of a high school developer. | All sections are attempted, yet more effort desired. | Missing sections and/or effort is lacking. |
-| **Task Worksheet** | All sections are professional and add value. Tasks updated daily and closely reflect reality. | All sections are complete with believable data in a timely manner. Effort is clear. | All sections are complete, but perhaps not timely. Some areas lack sufficient thought and/or effort, or appear to be made up. | Missing sections and/or effort is insufficient. |
-| **Unit Tests (upon request)** | JUnit (or some professional testing infrastructure) is used to test many methods. | Some code is written that performs testing of important pieces of functionality beyond running the program normally. | The code has remnants of unit testing. | No artifacts of testing present. |
+_Each learning needs to relate to a specific experience and/or section of code. Be ready to elaborate if asked._
 
----
+##  <a name='PastProjectExamples'></a>Past Project Examples
 
-####  2.2.3. <a name='Professionalism20'></a>**Professionalism (20%)**  
-
-| **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
-|---------------------------|----------------------|------------------------|-------------------|------------------|
-| **Demo Days** | Clear achievements made during each demo. Shared learning along with functionality. Worksheet is complete. | Some progress is demonstrated. Worksheet has some updates. | Progress is missing or too small. Worksheet is missing important information. | No progress is discernible. Worksheet is inadequate. |
-| **Formal Presentation** | Thorough presentation of project: functionality, learnings, and experience. Professional slides and/or presentation. | Demonstrates functionality and some insight into the development experience. No slides necessary. Reasonable quality of presentation. | Falls short of sharing functionality or experience. Presentation lacks quantity or quality. | Missing or woefully disorganized, lacking details. |
-| **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
-
-##  3. <a name='PastProjectExamples'></a>Past Project Examples
+Following are a set of students previous **Design Documents**. Keep in mind that the template for this years project has been modified from these examples, but they form a good starting point for you to review the level of expectations for the project work.
 
 Following are a set of students previous **Design Documents**. Keep in mind that the template for this years project has been modified from these examples, but they form a good starting point for you to review the level of expectations for the project work.
 
 [Past Student's Design Documents](https://drive.google.com/drive/folders/1HarP8I5OjYZteGM528fq-PHQC0Din5Gg?usp=sharing)
+
+[Past Student's Presentations](https://drive.google.com/drive/folders/1janzBHDEuJSPTm0tTyvf3swXDFIAfNxm?usp=sharing)
+
+[Task List Template](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing) - Use this to start your task list
