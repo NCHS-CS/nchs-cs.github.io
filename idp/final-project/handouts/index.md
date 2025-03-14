@@ -25,7 +25,16 @@ During this Final Project you will have four dates to deliver the following item
 
 ## Timeline
 
-_This will be updated later with the project deliverable due dates._
+| Date | What |
+| --- | --- | 
+| Mon, Mar 17 | Form & (Brain)Storm<br>Project Design (3 Phases) |
+| Mon, Mar 31 | Discovery Document Due |
+| April 7 - 11 | Spring Break |
+| Fri, Apr 18 | Data Organization Due |
+| Apr 28-May 2 | Final MCQ/FRQ |
+| Mon, May 26 | Final Due<br>Start of Presentations (Seniors First) |
+| Mon, June 9 | Last day for seniors | 
+| ?Tue, June 24? | Last day of school |
 
 ## #1: [Discovery Document and Raw Data](discovery.md)
 
