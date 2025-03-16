@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables - Final Code and Report"
+parent: IDP
+title: Final Code and Report
+nav_order: 30
 ---
 
 Your Final Report should be _about_ 10 pages long. You are allowed to have a longer report if there are many plots to show. However, the sum total amount of text found in the report should be limited to no more than 3 pages. In other words, if all the plots were removed, the report would be at most 3 pages long. 

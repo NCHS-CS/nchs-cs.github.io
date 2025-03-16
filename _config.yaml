@@ -6,3 +6,25 @@ url: https://nchs-cs.github.io/
 
 aux_links:
   Markdown File Access: https://github.com/NCHS-CS/nchs-cs.github.io
+
+logo: "/static/updatePNG_NCHS_JaguarHeadLogo__2__small.png"
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  # Docs: https://www.jsdelivr.com/package/npm/mermaid 
+  version: "11.5.0"
+
+callouts:
+  notice:
+    title: Notice
+    color: blue
+  warning:
+    title: Warning
+    color: yellow
+  danger:
+    title: Danger
+    color: red
+
+# sass:
+#   quiet_deps: true

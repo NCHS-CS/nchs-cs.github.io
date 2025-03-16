@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables - Challenges"
+parent: IDP
+title: Challenges
+nav_order: 40
 ---
 
 Challenge goals help us to define expectations while still offering flexibility for you to design your own project. Meeting the requirements of a challenge goal is described here.

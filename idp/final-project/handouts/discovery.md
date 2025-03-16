@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables - Discovery"
+parent: IDP
+title: Discovery
+nav_order: 1
 ---
 
 ## Overview

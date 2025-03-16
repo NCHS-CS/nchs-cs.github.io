@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables"
+title: "IDP"
+nav_order: 30
 ---
 
 ![Final Project](/static/idp_final_project.png)
+
+# Intermediate Data Programming
 
 Embark on a journey where you'll harness your data programming prowess to transform raw data into compelling narratives. ***Your mission***: select a dataset that intrigues you, meticulously organize and analyze it, and craft insightful visualizations that tell its story. This project culminates in a presentation where you'll showcase your findings, demonstrating the powerful insights that effective data programming can unveil.
 

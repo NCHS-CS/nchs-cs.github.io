@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Advanced Topics"
-subtitle: "Final Project for Advanced Topics"
+title: Advanced Topics
+nav_order: 20
 ---
 
 Embarking on a journey of innovation and mastery, Advanced Topics students will have several dedicated weeks to conceive, design, and develop sophisticated Java applications. From intuitive graphical user interfaces to complex algorithms, each project reflects their commitment to excellence and creativity. Join us in exploring these remarkable creations that exemplify the future of technology.

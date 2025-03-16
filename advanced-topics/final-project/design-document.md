@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Advanced Topics"
-subtitle: "Final Project Design Document Template"
+parent: Advanced Topics
+title: Design Document
+nav_order: 10
 ---
+
 
 This document is a starting template you will use for your Design Document. You will complete each section separately in phases and grades. You may take this document and import it to a new google document if you want to create your design document in google, otherwise you may keep this in the doc folder with your github project (recommended).
 

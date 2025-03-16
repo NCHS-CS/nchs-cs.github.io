@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables - Data Organization"
+parent: IDP
+title: Data Organization
+nav_order: 10
+
 ---
 
 ## Overview

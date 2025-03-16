@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Intermediate Data Programming"
-subtitle: "Final Project Deliverables - Final Presentation"
+parent: IDP
+title: Final Presentation
+nav_order: 50
 ---
 
 

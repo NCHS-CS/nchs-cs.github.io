@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Advanced Topics"
-subtitle: "Final Project Rubrics"
+parent: Advanced Topics
+title: Rubrics
+nav_order: 20
 ---
 
 ##  <a name='Rubric'></a>Rubric - Phase 1
