@@ -31,16 +31,16 @@ There will be multiple rubrics for this project.
 1. *Rubric - Phase 1 - Project Proposal (TBD)*
 2. *Rubric - Phase 2 - Project Proposal Wireframes (TBD)*
 3. *Rubric - Phase 3 - Design Document (TBD)*
-4. [Rubric - Project Completion](rubrics.md)
+4. [Rubric - Project Completion](rubrics)
 
 
 ## <a name='ProjectArtifacts'></a>Project Artifacts
 
-3. [Design Document (This include 3 phases)](design-document.md)
+3. [Design Document (This include 3 phases)](design-document)
 4. Project Code (in GitHub) - Links in Daily Tracker
 5. [Task List (Google Sheets)]((https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing)
 6. <a href="#learnings">Learnings Journal</a>
-7. [Design Document](design-document.md)
+7. [Design Document](design-document)
 8. Presentation / Demo (in class)
 
 ##  <a name='Timeline'></a>Timeline 2025

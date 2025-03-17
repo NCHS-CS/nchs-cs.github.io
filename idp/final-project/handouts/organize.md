@@ -82,13 +82,13 @@ There are some positive realizations from doing these sketches that will impact 
 * I need data by year  
 * I need to be able to do `twinx` plots--to plot lines with different scales on the same axis  
 
-![Sample Sketch](../../_static/fp_movie_sketches.png)
+![Sample Sketch](../../static/fp_movie_sketches.png)
 ```
 ## GitHub Project
 
 Your code is expected to be delivered on GitHub.  
 
-The code must run from a new clone from GitHub with an explanation in the `readme.md` file explaining the steps to run the code locally.  
+The code must run from a new clone from GitHub with an explanation in the `README.md` file explaining the steps to run the code locally.  
 
 You must follow the structure found in the template project. The GitHub project has several important folders and files describe below.  
 
@@ -109,7 +109,7 @@ You must make use of the **Files** provided:
     * reduce the size of large datasets to something more manageable  
     * clean data: reduce/rename columns, normalize strings, adjust values  
     * generate data through relatively complicated calculations  
-* `readme.md` : This file contains instructions to explain the extended files & folders in your project. Also, if some/all of your project will not run from GitHub, provide instructions for how to setup and run your code locally. Ideally, only some parts of your project would require custom setup while the rest will run without changes.  
+* `README.md` : This file contains instructions to explain the extended files & folders in your project. Also, if some/all of your project will not run from GitHub, provide instructions for how to setup and run your code locally. Ideally, only some parts of your project would require custom setup while the rest will run without changes.  
 * `run_tests.py` : This is the entry point to running all of your tests. You can do simple testing as we have done all year in your homework assignments. Or, you can leverage Python's Unit Test Framework which is a bit more complicated, but super cool.  
 
 ## Preprocessing Data

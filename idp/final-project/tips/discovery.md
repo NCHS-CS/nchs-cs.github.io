@@ -1,4 +1,11 @@
-# <i class="fas fa-book fa-fw"></i> Discovery Tips
+---
+layout: default
+parent: Project Tips
+title: Discovery Tips
+nav_order: 110
+---
+
+# Discovery Tips
 
 ## Overview
 The point of this Deliverable is to assure that you understand your goals, your data, and that your data is sufficient.  
@@ -20,10 +27,9 @@ A common mistake in a research project is to not have a research goal in mind. S
 Another common mistake is to take on a project that is only mildly interesting and without consequence or impact. For example, one might identify the most popular genre of movies without an explanation of why we should care. Perhaps there is a very good reason we should care. Don’t simply answer mild curiosities.  
 
 ## Data Description
-```{admonition} Important!
-:class: important
+
+{: .notice }
 The ultimate focus of this deliverable is to **understand** your data. 
-```
 
 You will extensively document your data to illustrate that you understand it. Here are some things that you should document:  
 
@@ -58,8 +64,5 @@ You may have to manually save the HTML to a local file and then update your code
 
 In short, you cannot let web-scraping be a roadblock to your Data Science research! Find a solution early, even if it involves some manual work. Strive to understand the scope of the web scraping task; start scraping early. The more work you get done early, the better things will go for the rest of the project.  
 
-```{admonition} Warning!
-:class: warning
+{: .alert }
 While using the internet to help you scrape a webpage is acceptable, you are still required to **cite** the specific source and **understand** the code in your project. To avoid uncomfortable interviews, add comments in your code that amply describe how it all works.  
-```
-

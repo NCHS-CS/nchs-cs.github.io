@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Project Tips
+title: Presentation
+nav_order: 150
+---
+
 # <i class="fas fa-book fa-fw"></i> Tips for Final Presentation
 
 The final presentation should highlight your discoveries, both expected and unexpected. You will want to focus on the visualizations and tell a story.  

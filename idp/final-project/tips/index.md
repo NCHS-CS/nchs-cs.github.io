@@ -1,8 +1,9 @@
-# <i class="fas fa-layer-group fa-fw"></i> Final Project - Tips
+---
+layout: default
+title: Project Tips
+parent: IDP
+nav_order: 100
+---
 
-This section will provide helpful tips on how to create a good projects
+# Final Project - Tips
 
-- [Discover](discovery.md)
-- [Use of Machine Learning](ML.md)
-- [presentation](presentation.md)
-- [report](report.md)

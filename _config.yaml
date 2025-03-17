@@ -22,9 +22,22 @@ callouts:
   warning:
     title: Warning
     color: yellow
-  danger:
-    title: Danger
+  alert:
+    title: Alert
     color: red
 
 # sass:
 #   quiet_deps: true
+
+include:
+  - idp/static
+
+keep_files:
+  - idp/static
+
+defaults:
+  - scope:
+      path: "idp/resources/"  # The folder where your markdown files reside
+      type: "pages"        # Pages that are in this folder
+    values:
+      parent: IDP Resources

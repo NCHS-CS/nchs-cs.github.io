@@ -60,7 +60,7 @@ Your document will have the following sections:
   * You may not use a dataset that has been used in a previous CSE 163 assignment, AP Research work, or competition (TSA, FBLA).  
   * The data must be real — neither you nor someone else may make up the data.  
   * The data must be large enough (500 lines or more).  
-* **[Challenge goals](challenges.md)** 
+* **[Challenge goals](challenges)** 
   * Select at least 2 challenge goals that you are planning to meet.  
   * Justify why you think this challenge goal is a good fit for your project.  
 

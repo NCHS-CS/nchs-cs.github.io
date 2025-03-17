@@ -1,4 +1,11 @@
-# <i class="fas fa-book fa-fw"></i> Tips for Final Report
+---
+layout: default
+parent: Project Tips
+title: Final Report
+nav_order: 130
+---
+
+# Tips for Final Report
 
 * Be terse and professional.  
 * Provide an [Abstract](https://en.wikipedia.org/wiki/Abstract_(summary)): a very short, full summary of the research.  
@@ -24,24 +31,22 @@ Having multiple research questions that focus on different areas or demographics
 
 To create multiple research questions focusing on different areas or demographics, you should first identify the key dimensions they wish to explore within the broader research topic. These dimensions could be distinct variables, subgroups, or specific factors of interest. Each research question should be clear, relevant, and aligned with the unique characteristics of the subgroup or area under investigation.
 
-**Example:**
-Let's consider a research project examining the incidents in aerospace technology. 
-````{tab-set}
-```{tab-item} Research Questions
+### Example:
+
+**Research Questions**
 1. How does the number and rate of aviation accidents correlate with different aspects of the temporal dimension (technological progression)?
 2. What is the relationship between aircraft mechanical factors and the likelihood of aviation accidents?
 3. How do external environmental factors such as geographical patterns and weather conditions correlate with the occurrence of aviation accidents?
 4. What is the role of human factors, including communication, crew-related factors, and staffing levels, in aviation accidents and incidents?
 5. To what extent can machine learning extract factorial information from personal narratives of aviation accidents? 
-```
-```{tab-item} Comments
+
+### Comments
+
 In this example, the researchers have formulated five distinct research questions, each focusing on a different area and demographic. By having multiple research questions, the researchers can collect data specifically tailored to each potential hazard in aerospace engineering as well as factors of ML.
 
 The first two focus on aircraft accidents and their connection to technology. The third question covers environmental and geographical demographics. The fourth is centered towards human behavior and psychology. And lastly, the fifth questions aims to draw connections using a Machine Learning model. 
 
 The different perspectives covered in this research, enviornmental, technology, physiological, and more make it complex and incredibly insightful. It also sets up the stage for conversation between findings. 
-```
-````
 
 ## Make Connections
 
@@ -50,7 +55,9 @@ Do your findings and takeaways support each other? Or contradict each other?
 Once you have created your visualizations, machine learning model, or any other means of extracting information from your data, your task now is to have them communicate with each other. 
 
 **Example:**
+
 In the study of alcohol abuse and related factors in the United States, the following information was extracted by various datasets:
+
 1. Visualizations
 2. Regression ML Model error 
 3. Analysis on the ML Decision Tree
