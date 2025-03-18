@@ -13,8 +13,14 @@ document.addEventListener("DOMContentLoaded", function() {
       
       filteredCommits.forEach(commit => {
         let entry = document.createElement("li");
+        const commitDate = new Date(commit.commit.author.date);
+        const options = { timeZone: 'America/Los_Angeles', year: 'numeric', month: '2-digit', day: '2-digit' };
+        
+        // Format the date to PST without time
+        const formattedDate = new Intl.DateTimeFormat('en-US', options).format(commitDate).replace(/\//g, '-');
+        
         entry.innerHTML = `
-          <strong>${commit.commit.author.date}</strong>:<nbsp>
+          <strong>${formattedDate}</strong>:<nbsp>
           ${commit.commit.message.replace(commitPrefix, "").trim()} - <a href="${commit.html_url}" target="_blank">View Commit</a>
         `;
         changelog.appendChild(entry);
