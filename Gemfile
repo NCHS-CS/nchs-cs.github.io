@@ -7,5 +7,5 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "just-the-docs"        # always download the latest release
 
 #Get rid of the scss stylesheet warnings...
-gem "jekyll-sass-converter", "~> 2.2"
+gem "jekyll-sass-converter", "~> 3.1"
 gem "sassc", "~> 2.4.0"  # Ensure sassc is used instead of Dart Sass
