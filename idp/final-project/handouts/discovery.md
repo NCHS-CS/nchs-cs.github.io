@@ -53,7 +53,7 @@ The Discovery Document's purpose is to:
 Your document will have the following sections:  
 
 * **Title and Author(s).** The title should reflect your specific research questions (not just “CSE 163 Project”).  
-* **Summary of research questions.** Give a numbered list of 3 or more research questions and a brief description of what you will investigate. Each research question should have 1–3 sentences and propose something that can be definitively answered, not just a general topic or area of investigation.  
+* **Summary of research questions.** Give a numbered list of 3 or more research questions and a brief description of what you will investigate. Each research question should have 1–3 sentences and propose something that can be definitively answered, not just a general topic or area of investigation. See the tips on research questions [here](../tips/report#change-the-research-questions)
 * **Motivation.** In one or two paragraphs, expand on your research questions by providing context about why you care, or why anyone should care. How does knowing the answers affect the world or our understanding of it?  
 * **Dataset.** This is the MOST important part of this document. (more details below) You will do the following. 
   * Describe the real, existing dataset that you will use, including exact URLs.  

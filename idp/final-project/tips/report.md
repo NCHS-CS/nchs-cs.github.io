@@ -48,6 +48,28 @@ The first two focus on aircraft accidents and their connection to technology. Th
 
 The different perspectives covered in this research, enviornmental, technology, physiological, and more make it complex and incredibly insightful. It also sets up the stage for conversation between findings. 
 
+## Other Research Questions Examples
+
+### **Good Research Questions** (Clear, Specific, and Data-Driven)
+1. **How does air quality vary across different cities, and what factors contribute most to poor air quality?**  
+   *(This question allows for data collection on air quality, weather, and pollution sources, making it suitable for Pandas analysis.)*  
+
+2. **What are the trends in student performance based on study time and extracurricular activities?**  
+   *(You can analyze datasets on student grades, study habits, and activity participation to find correlations.)*  
+
+3. **How do different machine learning algorithms perform on predicting house prices based on real estate data?**  
+   *(This allows for a comparative analysis using regression models and Pandas for data handling.)*  
+
+### **Poor Research Questions** (Too Broad, Opinion-Based, or Lacking Data)
+1. **Why do students struggle with math?**  
+   *(Too vague and qualitative; lacks a clear dataset or measurable variables.)*  
+
+2. **Is social media good or bad for mental health?**  
+   *(Overly broad and subjective; needs a more specific data-driven approach like analyzing sentiment analysis of social media usage.)*  
+
+3. **How has technology changed over time?**  
+   *(Too general; should focus on a specific technology and measurable aspects like adoption rates or performance metrics.)*  
+
 ## Make Connections
 
 Do your findings and takeaways support each other? Or contradict each other?
