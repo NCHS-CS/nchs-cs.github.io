@@ -46,6 +46,7 @@ Let the data speak for itself.
 Work hard to create plots that speak volumes!  
 
 ## Project Rubric
+
 The following are used to determine your score:  
 * Professionally written    
 * Creativity, quantity, and quality of plots   

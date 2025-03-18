@@ -3,7 +3,6 @@ layout: default
 parent: IDP
 title: Data Organization
 nav_order: 10
-
 ---
 
 ## Overview

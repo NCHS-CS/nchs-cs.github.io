@@ -22,9 +22,8 @@ The data you download can come in many forms. Ultimately, you want to land on a 
 It is better to have more data than not enough. If your data is especially large, you will work to reduce it to a more manageable size in the second deliverable (Organize). 
 
 ## Research Questions & Motivation
-A common mistake in a research project is to not have a research goal in mind. Students can seek out data and then aimlessly proceed to execute an exploratory process without direction. While exploration is certainly part of Data Science, you should have some specific questions in mind that you intend to answer. Your questions should revolve around identifying correlations and not causations. Don't worry if you don't expose an obvious correlation; your plots are successful if they identify non-correlations. 
 
-Another common mistake is to take on a project that is only mildly interesting and without consequence or impact. For example, one might identify the most popular genre of movies without an explanation of why we should care. Perhaps there is a very good reason we should care. Don’t simply answer mild curiosities.  
+Review tips & help for research questions [here](../research)
 
 ## Data Description
 

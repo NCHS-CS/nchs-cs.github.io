@@ -1,3 +1,4 @@
 Change to the following jekyll theme?
 
-https://github.com/just-the-docs/just-the-docs-template
+- idp/static - lots of unused stuff - could be cleared out and just keep a few of the images needed.
+- Pull out rubric to separate page.
