@@ -26,8 +26,7 @@ callouts:
     title: Alert
     color: red
 
-# sass:
-#   quiet_deps: true
+enable_copy_code_button: true
 
 include:
   - idp/static
