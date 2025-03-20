@@ -10,4 +10,4 @@ gem "just-the-docs"        # always download the latest release
 gem "jekyll-sass-converter", "~> 2.2"
 gem "sassc", "~> 2.4.0"  # Ensure sassc is used instead of Dart Sass
 
-gem 'jekyll-github-metadata', group: :jekyll_plugins # Required for site variable url
+# gem 'jekyll-github-metadata', group: :jekyll_plugins # Required for site variable url
