@@ -32,3 +32,5 @@ config.yml~         # Backup copy of config
 
 # Ignore generated cache files (Ruby gem cache)
 vendor/             # Vendored gems (if you're using bundler)
+
+.sass-cache/        # Sass cache
