@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: IDP
 title: Discovery
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 title: Project Tips
 parent: IDP
 nav_order: 100

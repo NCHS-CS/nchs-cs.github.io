@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: Advanced Topics
 title: Rubrics
 nav_order: 20

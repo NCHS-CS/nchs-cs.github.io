@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: IDP
 title: Final Presentation
 nav_order: 50

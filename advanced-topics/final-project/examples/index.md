@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 title: Examples
 parent: Advanced Topics
 nav_order: 100

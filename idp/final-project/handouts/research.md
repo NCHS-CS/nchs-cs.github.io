@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: IDP
 title: Research
 nav_order: 55

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: Advanced Topics
 title: Design Document
 nav_order: 10

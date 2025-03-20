@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 title: Pandas
 ---
 # Useful API

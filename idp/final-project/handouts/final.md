@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: IDP
 title: Final Code and Report
 nav_order: 30

@@ -1,0 +1,24 @@
+<script>
+    async function forceDownload() {
+        const fileUrl = "https://raw.githubusercontent.com//NCHS-CS/nchs-cs.github.io/main/{{ page.path }}";
+        
+        const response = await fetch(fileUrl);
+        const blob = await response.blob();
+        const blobUrl = window.URL.createObjectURL(blob);
+    
+        const link = document.createElement('a');
+        link.href = blobUrl;
+        link.download = "{{ page.name }}";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        window.URL.revokeObjectURL(blobUrl);
+    }
+    window.forceDownload = forceDownload; // Attach function to global window object
+</script>
+
+{% if page.custom_scripts %}
+  {% for script in page.custom_scripts %}
+    <script src="{{ script }}"></script>
+  {% endfor %}
+{% endif %}

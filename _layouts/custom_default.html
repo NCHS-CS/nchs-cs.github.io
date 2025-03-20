@@ -2,10 +2,4 @@
 layout: default
 ---
 
-{% if page.custom_scripts %}
-  {% for script in page.custom_scripts %}
-    <script src="{{ script }}"></script>
-  {% endfor %}
-{% endif %}
-
 {{ content }}
