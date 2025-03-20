@@ -1,13 +1,12 @@
 title: NCHS Computer Science
 description: Intermediated Data Programming (IDP) & Advanced Topics (Java)
 theme: just-the-docs
-
+favicon_ico: "/assets/images/favicon.ico"
 url: https://nchs-cs.github.io/
+logo: "/static/updatePNG_NCHS_JaguarHeadLogo__2__small.png"
 
 aux_links:
   Markdown File Access: https://github.com/NCHS-CS/nchs-cs.github.io
-
-logo: "/static/updatePNG_NCHS_JaguarHeadLogo__2__small.png"
 
 mermaid:
   # Version of mermaid library
@@ -25,9 +24,6 @@ callouts:
   alert:
     title: Alert
     color: red
-
-# sass:
-#   quiet_deps: true
 
 include:
   - idp/static
