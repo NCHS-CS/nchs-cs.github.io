@@ -15,4 +15,4 @@ nav_order: 10
 ---
 
 {: .notice }
-Please report broken links to your teacher through the student request form [here](https://docs.google.com/forms/d/e/1FAIpQLSeFIrdKMCqh8tzNduurg08OI5H9l9lUqZgZ22JB3hDXHpEx7w/viewform)
+Please [report broken links](https://github.com/NCHS-CS/nchs-cs.github.io/issues) to your teacher through the github issues link [here]. Or even better; submit a [pull request](https://github.com/NCHS-CS/nchs-cs.github.io/pulls) for the actual fix to github for the website and live in git history infamy!
