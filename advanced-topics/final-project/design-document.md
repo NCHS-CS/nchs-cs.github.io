@@ -29,7 +29,7 @@ Provide a brief description of your project idea (2-3 sentences). Explain what y
 
 **MVP** 
 
-(Minimum Viable Product). Describe the absolute fewest pieces of functionality that defines success. If any part of an MVP feature is missing, the project is not worth shipping and is considered a failure. This is not your target set of functionality from above. It should describe the set of features you’re confident you can get done on time.
+(Minimum Viable Product). Describe the absolute fewest pieces of functionality that defines success. See the section below that describes more details on the different feature __levels__. This is not your target set of functionality from above. It should describe the set of features you’re confident to complete by midway through your project timeline.
 
 **Purpose & Motivation:**
 
@@ -51,13 +51,61 @@ What extra features or stretch goals are you planning to implement if time permi
 
 Stretch Features: List the features that are bonus and completely unnecessary. These will be added only as time permits. 
 
+The difference between **Minimum Viable Product (MVP) features** and **core features** lies in their purpose, scope, and timing in product development.
+
+### **MVP Features**  
+- **Definition:** The minimum set of features required to make a product functional and deliver value to early adopters.  
+- **Purpose:** To validate an idea, test market demand, and gather user feedback with minimal effort. You can use this step of development to try out some of your ideas on your fellow classmates _well before the final project due date._
+- **Scope:** Limited to essential functionalities that solve the primary problem.  
+- **Timing:** Released in the earliest stage of development to test hypotheses.  
+- **Examples:**  
+  - A ride-sharing app MVP might only allow users to request a ride and drivers to accept it (without payment integration or advanced route optimization).  
+
+### **Core Features**  
+- **Definition:** The fundamental and defining features of a product that provide its long-term value.
+- **Purpose:** To sustain and grow the product, enhancing user experience and differentiation. This should be your goal for the finished product.
+- **Scope:** A broader set of functionalities beyond the MVP, including optimizations, competitive advantages, and scalability.  
+- **Timing:** Developed and refined after MVP validation, often as part of iterative improvements.  
+- **Examples:**  
+  - In the same ride-sharing app, core features may include fare estimation, surge pricing, driver ratings, and in-app payments.  
+
+{: .notice-title }
+> Key Difference
+> 
+> MVP features focus on quick validation (often to allow changes to the product specification to adjust to user testing), while core features focus on delivering a complete, competitive, and sustainable product.
+
 ### Learning Targets and Challenge Goals
 
-What do you need to know to be successful?  What technology or techniques are new to you that are likely to be difficult? What will you exercise and get better at because of this project? Bulleted list goes here.  You can list out Data Structures, Generics, and/or Interfaces that you intend to become more familiar with. List out algorithms and/or public libraries List out GUI components or things like: multi-threading, security, web services, GitHub, sound, Fast Fourier Transforms, double buffering, image processing, fly out menus, Trees, networking  Cannot say vague things like, “To learn how to code the project” 
+What do you need to know to be successful?  What technology or techniques are new to you that are likely to be difficult? 
+
+What will you exercise and get better at because of this project? 
+
+Bulleted list goes here.
+
+You can:
+
+- List out Data Structures, Generics, and/or Interfaces that you intend to become more familiar with. 
+- List out algorithms and/or public libraries List out GUI components or things like: multi-threading, security, web services, GitHub, sound, Fast Fourier Transforms, double buffering, image processing, fly out menus, Trees, networking.
+
+{: .alert}
+Do not say vague things like, “To learn how to code the project” 
 
 ### High Level Weekly Timeline
 
 Create your task list from [this template](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing) (You may modify but you should keep this as the minimum required information for a task list)
+
+1. Task - A short description of a task. Keep tasks as simple as you can and avoid mixing tasks across multiple things. If you need to later you can cross out this task and split it into multiple items as you learn more (keeping your original estimate)
+2. Owner - Who you plan to have work on this task.
+3. Status - So you know if your partner is finished or actively working on this or hasn't started.
+4. Initial Estimate - What's your best guess on time for this? If you have a task that is large that's fine but it's a good indication that you will need to split this up into multiple tasks on the week you decide to work on it. You won't change this after your initial design document is created.
+5. Expected Time - Use your previous teams multiplier to get a # hours for this.
+6. Week#	- Which week is this planned for? You can turn on week numbers in most calendars and use this for planning.
+7. Actual Time - You'll record this as you finish tasks.
+8. User Story ID(s) - You'll have [user stories](https://www.atlassian.com/agile/project-management/user-stories) in your design document with identifiers you can reference here. 
+9. Notes - Any other stuff you want to put in to help coordinate on tasks.
+
+: .notice}
+Each week we have a little less than 4 hours of class time. Given other interruptions and activities, if you schedule more than 3 hours pp (per person) for a week you can expect you'll need to work outside of regular class hours on it.
 
 ### Approval
 
@@ -162,8 +210,7 @@ Builing on the diagrams you created in the last section you should expand on the
 | Class name | Roles & Responsibilities |
 | :---- | :---- |
 |  |  |
-|  |  |
-|  |  |
 
 #### Important Algorithms/Functionality
 
+Add specific details for any complicated algorithms you will need to implement for your project.
