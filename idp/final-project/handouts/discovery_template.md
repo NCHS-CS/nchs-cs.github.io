@@ -7,7 +7,8 @@ nav_order: 1
 
 # Independent Discovery Project Template
 
-__Replace all content below with your own content. Review the [detailed instructions](../discovery)__
+{: .notice }
+Replace all content below with your own content. Review the [detailed instructions](discovery)
 
 **Student Name:** ____________________  
 **Date:** ______________  

@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Overview
 
-Review the [document template](120_templates/01_discovery_template) and fill in all the sections.
+Review the [document template](discovery_template) and fill in all the sections.
 
 You will deliver the following:
 
