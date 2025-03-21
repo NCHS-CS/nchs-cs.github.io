@@ -11,10 +11,11 @@ Review the [document template](discovery_template) and fill in all the sections.
 
 You will deliver the following:
 
-* A Markdown (preferred) or Google Document (described below). The main goal of this document is to create the "context and scope" of what you are answering. What is your "research topic" in 3 bullet questions.
+* The main goal of this document is to create the "context and scope" of what you are answering. What is your "research topic" in 3 bullet questions.
 * Submit to github a link to your google document or your markdown content in the document folder.
 * Submit to GitHub your folder of raw_data (or links to a Google Folder if over 1GB).  
 * Target Challenge Goals
+* As a guide your document should be between 1500 and 2500 words at most excluding your datasets. (3-5 pages). You will be marked down for going over this.
 
 You do not need to have any code written yet, but you may want to use some code to help you learn about the data. For example, you may want to print out the columns or get some statistical information about the data using code.  
 
@@ -48,5 +49,8 @@ The Discovery Document's purpose is to:
  * Identify & explain relevant columns: names, format, units, ranges, cleanliness  
  * Issues or challenges in working with the data (e.g. too big, non-standard key formatting making cross-referencing difficult, missing information, too broad or narrow)  
 4. Establish **Challenge Goals**:  
- * While this may change, it is important to consider what challenges you intend to take on. See below for more details.  
+ * While this may change, it is important to consider what challenges you intend to take on. 
 
+## Grading
+
+The discovery document will be graded based on adherence to the above guidelines. There is no formal rubric for this deliverable.
