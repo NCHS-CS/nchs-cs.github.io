@@ -1,8 +1,7 @@
 ---
 layout: default_dl
-parent: IDP
-title: Challenges
-nav_order: 40
+parent: Discovery
+title: Discovery Challenges
 ---
 
 Challenge goals help us to define expectations while still offering flexibility for you to design your own project. Meeting the requirements of a challenge goal is described here.

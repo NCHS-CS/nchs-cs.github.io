@@ -51,7 +51,7 @@ You should:
 2. List important columns from each dataset  
 3. Examine challenges with the data  
 
-See the [Dataset Example]() for more details.
+See the [Dataset Example](dataset_example) for more details.
 
 ---
 
