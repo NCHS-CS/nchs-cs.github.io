@@ -45,7 +45,7 @@ Other references specific to Intermediate Data Programming are also available he
 
 You will deliver your initial proposed project and scope.
 
-* A Google Document.
+* A Markdown or Google Document.
 * Your GitHub of your raw_data (or link to data > 1GB)
 
 ## #2: [Data Organization](organize)
