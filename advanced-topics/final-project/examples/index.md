@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Examples
-parent: Advanced Topics
+parent: AT - Final Project
 nav_order: 100
 ---
 

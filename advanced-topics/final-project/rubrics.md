@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Advanced Topics
+parent: AT - Final Project
 title: Rubrics
 nav_order: 20
 ---

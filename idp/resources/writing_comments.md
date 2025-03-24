@@ -158,7 +158,7 @@ class Main:
 ```
 
 ### Inline Comments
-It is not appropriate to use comments to describe the obvious. It simply is not professional, it needlessly takes up vertical real estate, and it actually makes the code harder to read. This example code and commenting style drives Mr. Stride nuts! Don't do it!
+It is not appropriate to use comments to describe the obvious. It simply is not professional, it needlessly takes up vertical real estate, and it actually makes the code harder to read. This example code and commenting style drives most engineers nuts! Don't do it!
 ```python
 def calc_avg(numbers):
     '''

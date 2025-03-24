@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Advanced Topics
+title: AT - Final Project
+parent: Advanced Topics
 nav_order: 20
 ---
 
