@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: IDP
+parent: IDP - Final Project
 title: Challenges
 nav_order: 40
 ---

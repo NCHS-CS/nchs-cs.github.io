@@ -1,13 +1,12 @@
 ---
 layout: home
-title: NCHS
-subtitle:  Computer Science
+title: NCHS Computer Science
 permalink: /index
 nav_order: 10
 ---
 ![NCHS Campus](/assets/images/NCHS-Building-1-South.jpg)
 
-# About Us - Computer Science at North Creek High School
+# About Us
 
 ## Welcome to North Creek High School Computer Science
 

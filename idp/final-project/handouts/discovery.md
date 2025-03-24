@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: IDP
+parent: IDP - Final Project
 title: Discovery
 nav_order: 1
 ---

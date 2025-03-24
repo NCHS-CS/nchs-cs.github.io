@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-title: IDP
+title: IDP - Final Project
 nav_order: 30
 ---
 
