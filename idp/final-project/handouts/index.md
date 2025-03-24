@@ -1,6 +1,7 @@
 ---
 layout: default_dl
 title: IDP - Final Project
+parent: IDP
 nav_order: 30
 ---
 
@@ -27,19 +28,6 @@ Be sure to review the project tips here [Project Tips](../tips/index)
 
 {: .notice}
 Other references specific to Intermediate Data Programming are also available here: [Resources](/idp/resources/README).
-
-## Timeline
-
-| Date | What |
-| --- | --- | 
-| Mon, Mar 17 | Form & (Brain)Storm<br>Project Design (3 Phases) |
-| Mon, Mar 31 | Discovery Document Due |
-| April 7 - 11 | Spring Break |
-| Fri, Apr 18 | Data Organization Due |
-| Apr 28-May 2 | Final MCQ/FRQ |
-| Mon, May 26 | Final Due<br>Start of Presentations (Seniors First) |
-| Mon, June 9 | Last day for seniors | 
-| ?Tue, June 24? | Last day of school |
 
 ## #1: [Discovery Document and Raw Data](discovery)
 

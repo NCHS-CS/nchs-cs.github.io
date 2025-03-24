@@ -1,7 +1,7 @@
 ---
 layout: custom_default
 title: Change Log
-parent: NCHS
+parent: NCHS Computer Science
 custom_scripts:
   - /assets/js/changelog.js
 ---

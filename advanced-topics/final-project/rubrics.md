@@ -7,7 +7,10 @@ nav_order: 20
 
 ##  <a name='Rubric'></a>Rubric - Phase 1
 
-*TBD*
+- 80% of your grade for Phase 1 will be determined by providing all sections completed on time.
+- 20% will be provided once you have approval on your phase 1 to move to phase 2.
+
+The approval will be graded after the due date and will not be late. However, you must get this signed off and complete before phase 2 to be graded without any deduction.
 
 ##  <a name='Rubric'></a>Rubric - Phase 2
 

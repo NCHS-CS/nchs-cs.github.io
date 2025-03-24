@@ -14,7 +14,6 @@ Projects must be approved to assure that they are achievable yet complex enough.
 <!-- vscode-markdown-toc -->
 - [Rubrics](#rubrics)
 - [Project Artifacts](#project-artifacts)
-- [Timeline 2025](#timeline-2025)
 - [Learning Journal](#learning-journal)
 	- [Examples](#examples)
 - [Past Project Examples](#past-project-examples)
@@ -43,26 +42,6 @@ There will be multiple rubrics for this project.
 6. <a href="#learnings">Learnings Journal</a>
 7. [Design Document](design-document)
 8. Presentation / Demo (in class)
-
-##  <a name='Timeline'></a>Timeline 2025
-
-You will have approximately X weeks to complete your final project. 
-
-We will start on the final project after Tic Tac Toe. Assume earliest start would be **week 12** (2025-03-16). We have at most until **week 24** to complete all activities; which will be 12 weeks.
-
-Your task **must** have weekly goals. You can update these each week but the initial version will remain in your Project Proposal.
-
-| Date | What |
-| --- | --- | 
-| Wed, Mar 19 | Form & (Brain)Storm<br>Project Design (3 Phases) |
-| Wed, Mar 26 | Project Proposal Phase 1 Due |
-| Wed, Apr 2 | Project Proposal Phase 2 Due |
-| April 7 - 11 | Spring Break |
-| Mon, April 14 | First Design Doc Due<br>Start coding |
-| Mon, April 28 | Mid-point check: Stabilize, Refactor, Redocument |
-| Mon, Jun 2 | Final Design Doc Due<br>Start of Presentations (Seniors First) |
-| Mon, June 9 | Last day for seniors | 
-| ?Tue, June 24? | Last day of school |
 
 ## <a name='Learnings'></a>Learning Journal
 
