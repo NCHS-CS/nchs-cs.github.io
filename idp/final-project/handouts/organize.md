@@ -28,10 +28,10 @@ Things NOT necessary for this deliverable:
 
 Think about the types of plots you want to create and how those could answer the questions you've posed. Be creative and hypothetical in this step. Imagine what a plot would look like and then sketch it out by hand or using Paint.  
 
-The goal is to imagine what your plots might look like while not constraining yourself by your coding abilities. Consider ways to convey information while assuming data values. If you find that you're drawing simple, repetitive bar plots or line plots, then you need to dig deeper into your creativity. Get some inspiration by looking at other published reports or at the Visualizations <a href="../../visualizations/case_study_dist.html">here</a>.  
+The goal is to imagine what your plots might look like while not constraining yourself by your coding abilities. Consider ways to convey information while assuming data values. If you find that you're drawing simple, repetitive bar plots or line plots, then you need to dig deeper into your creativity. Get some inspiration by looking at other published reports and visualizations.  
 
-```{admonition} Good Features
-Fabulous sketches will:  
+## Good Features
+**Fabulous sketches will:**
 * Reasonably _"answer"_ all your questions  
 * Have a Title with the axes labeled  
 * Be easy to read (not crowded, not sloppy)  
@@ -41,9 +41,8 @@ Fabulous sketches will:
 * Illustrate Challenge Goals such as:  
     * Plots of ML Model predictions  
     * Controls in interactive plots  
-```
 
-Things to consider:  
+**Things to consider: **
 * How you might annotate your plots with values  
 * Whether a curve of best fit is appropriate  
 * How statistical significance might be added  
@@ -62,16 +61,16 @@ Things to consider:
     * Geospatial  
     * Heatmap  
 
-```{admonition} Sample Sketch
-:class: note dropdown
+## Sample Sketch
+
 This sketch was created in Paint in about 15 minutes. These are sketches for a hypothetical project on the box office revenues of movies. The project is attempting to show correlation between box office revenues, Netflix earnings, and America's GDP.  
 
-Do not be fooled! This sketch represents `C-` quality work. The sketches illustrate a few things that should be addressed early. Before submitting this Organization Deliverable, the sketches should be updated to address these shortcomings:  
+Do not be fooled! This sketch represents `C-` quality work. The sketches illustrate a few things that should be addressed early. Before submitting this Organization Deliverable, the sketches should be updated to address these shortcomings:
 * There are only 3 plots. Ouch!  
 * The y-axes are not all labeled.  
 * The bar chart showing genre of movies does not add any value to the research question. It is good that the bars are sorted by value, but there is no point to the chart.  
 * I lack annotation. The bar chart could have values added to the top of the bars (or inside the bars). The line plots could highlight inflection points.  
-* I need more creativity. Having only barchart and line plots is not enough. While line plots are fantastic at identifying correlations, there are other plots and activities that are great at doing showing correlation. The following example correlation methods may not be appropriate given the data collected or my research question. Regardless, here are some other methods:  
+* I need more creativity. Having only barchart and line plots is not enough. While line plots are fantastic at identifying correlations, there are other plots and activities that are great at showing correlation. The following example correlation methods may not be appropriate given the data collected or my research question. Regardless, here are some other methods:  
     * [Correlation Heatmap](https://stackoverflow.com/questions/39409866/correlation-heatmap)  
     * <a href="../../Topics/machine_learning/feature-importance.html">Machine Learning and Feature Importance</a>   
     * Plotting Netflix vs GDP and then adding Statistical information such as `Coefficient of Determination`.  
@@ -82,7 +81,7 @@ There are some positive realizations from doing these sketches that will impact 
 * I need to be able to do `twinx` plots--to plot lines with different scales on the same axis  
 
 ![Sample Sketch](../../static/fp_movie_sketches.png)
-```
+
 ## GitHub Project
 
 Your code is expected to be delivered on GitHub.  

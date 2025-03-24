@@ -2,3 +2,4 @@ Change to the following jekyll theme?
 
 - idp/static - lots of unused stuff - could be cleared out and just keep a few of the images needed.
 - Pull out rubric to separate page.
+- Add in the visualizations examples from mrstride here: https://idp.mrstride.com/visualizations/index.html 
