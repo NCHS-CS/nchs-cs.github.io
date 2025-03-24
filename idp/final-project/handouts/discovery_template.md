@@ -5,12 +5,13 @@ title: Discovery Template
 nav_order: 1
 ---
 
-# Independent Discovery Project Template
+# Discovery Project Template
 
 {: .notice }
 Replace all content below with your own content. Review the [detailed instructions](discovery)
 
-**Student Name:** ____________________  
+**Student Name 1:** ____________________  
+**Student Name 2:** ____________________  
 **Date:** ______________  
 **Course:** ______________  
 
