@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: AT - Final Project
 title: Design Document
 nav_order: 10

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 title: Feature Examples
 parent: Examples
 nav_order: 5

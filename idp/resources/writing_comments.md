@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 title: Writing Comments
 ---
 # Writing Effective Comments

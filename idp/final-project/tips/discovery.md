@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_dl
 parent: Project Tips
 title: Discovery Tips
 nav_order: 110
