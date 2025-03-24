@@ -38,7 +38,7 @@ There will be multiple rubrics for this project.
 
 3. [Design Document (This include 3 phases)](design-document)
 4. Project Code (in GitHub) - Links in Daily Tracker
-5. [Task List (Google Sheets)]((https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing)
+5. [Task List (Google Sheets)](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing)
 6. <a href="#learnings">Learnings Journal</a>
 7. [Design Document](design-document)
 8. Presentation / Demo (in class)

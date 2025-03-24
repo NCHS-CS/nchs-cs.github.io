@@ -5,7 +5,7 @@ parent: IDP
 nav_order: 30
 ---
 
-![Final Project](/static/idp_final_project.png)
+![Final Project](/assets/images/idp_final_project.png)
 
 # Intermediate Data Programming
 {: .no_toc }
