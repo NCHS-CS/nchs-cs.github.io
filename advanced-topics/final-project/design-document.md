@@ -211,6 +211,32 @@ Builing on the diagrams you created in the last section you should expand on the
 | :---- | :---- |
 |  |  |
 
-#### Important Algorithms/Functionality
+### Important Algorithms/Functionality
 
-Add specific details for any complicated algorithms you will need to implement for your project.
+
+Here’s an expanded version of your section that provides clarity on why documenting algorithms in a design document is important and how detailed they should be to avoid excessive content:  
+
+---
+
+### Important Algorithms/Functionality
+
+Clearly documenting key algorithms is essential for ensuring a well-structured and efficient implementation of your project. This section should highlight any complex or critical algorithms that will be developed, such as game loops, AI decision-making, pathfinding, data processing, or physics simulations.  
+
+**Why is this important?**  
+- It helps identify potential challenges early, allowing for better planning and problem-solving before coding begins.  
+- Ensures consistency in implementation, especially when working in a team, by providing a shared understanding of how key functionalities will operate.  
+- Serves as a reference throughout development, reducing confusion and making debugging more efficient.  
+- Helps prevent scope creep by defining the complexity of features in advance.  
+
+**How detailed should this section be?**  
+- Provide a high-level explanation of what the algorithm does and why it’s needed.  
+- Include a brief outline of the logic or steps involved (pseudocode or flowcharts can be useful but should remain concise).  
+- If applicable, mention key considerations like efficiency, potential bottlenecks, or alternative approaches.  
+- Avoid excessive detail—this is not a full implementation but rather a roadmap for development.  
+
+For example:  
+**Example: AI Pathfinding**  
+_The AI will use A* pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations._  
+
+This level of detail provides enough guidance without overwhelming the design document with unnecessary complexity.
+
