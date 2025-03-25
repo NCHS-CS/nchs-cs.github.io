@@ -20,10 +20,15 @@ Our mission is to inspire and educate students in the field of computer science,
 
 | Name | Classes | Image | Bio |
 |------|------|---------|-------|
-| [**Jason Rukman**](mailto:jrukman@nsd.org) | - [Advanced Programming Topics](/advanced-topics/)<br>- [Intermediate Data Programming(IDP)](/idp/) | <img src="assets/images/rukman_jason.png" alt="Instructor Image" width="200"> | Originally from Australia I started my Engineering career in the US at Apple, Cupertino. Worked at multiple companies as sofware architect, product manager, people manager and project manager for over 30 years |
+| [**Jason Rukman**](mailto:jrukman@nsd.org) (Room:1204) | - [Advanced Programming Topics](/advanced-topics/)<br>- [Intermediate Data Programming(IDP)](/idp/) | <img src="assets/images/rukman_jason.png" alt="Instructor Image" width="200"> | Originally from Australia I started my Engineering career in the US at Apple, Cupertino. Worked at multiple companies as sofware architect, product manager, people manager and project manager for over 30 years |
 | [**Poonam Ahuja**](mailto:pahuja@nsd.org@nsd.org) | AP CSA<br>AP Computer Science Principles | <img src="assets/images/ahuja_poonam.png" alt="Instructor Image" width="200">  | Ms. Ahuja specializes in computer science education, including Advanced Placement (AP) Computer Science A courses. In her role, she is committed to providing students with the skills and knowledge necessary to excel in the rapidly evolving field of technology.​ |
+| [**Ray Barber**](mailto:rbarber@nsd.org@nsd.org) | [Web Design](/common/courses#web-design)<br>AP Computer Science Principles | <img src="assets/images/barber_ray.png" alt="Ray Barber Profile" width="200">  | ?​ |
 
 ## Clubs & Competitions
+
+_TBD_
+
+### TSA
 
 _TBD_
 
@@ -35,3 +40,4 @@ We welcome all students to join our computer science community, whether you're a
 
 {: .notice }
 Please report broken links to your teacher through the github issues link [here](https://github.com/NCHS-CS/nchs-cs.github.io/issues). Or even better; submit a [pull request](https://github.com/NCHS-CS/nchs-cs.github.io/pulls) for the actual fix to github for the website and live in git history infamy!!
+
