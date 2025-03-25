@@ -211,11 +211,6 @@ Builing on the diagrams you created in the last section you should expand on the
 | :---- | :---- |
 |  |  |
 
-### Important Algorithms/Functionality
-
-
-Here’s an expanded version of your section that provides clarity on why documenting algorithms in a design document is important and how detailed they should be to avoid excessive content:  
-
 ---
 
 ### Important Algorithms/Functionality
