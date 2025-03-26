@@ -8,6 +8,11 @@ logo: "/assets/images/Jaguar_Logo_Small.png"
 aux_links:
   Site GitHub: https://github.com/NCHS-CS/nchs-cs.github.io
 
+nav_external_links:
+  - title: LearnGitBranching
+    url: https://nchs-cs.github.io/idp/static/gitbranching/learnGitBranching
+    opens_in_new_tab: true
+
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
