@@ -9,7 +9,7 @@ nav_order: 20
 {: .no_toc }
 
 {: .notice }
-There are three main rubric categories that are detailed in the following sections for 135 points.
+There are three main rubric categories that are detailed in the following sections for 145 points (subject to change)
 
 1. TOC
 {:toc}
@@ -48,9 +48,13 @@ The approval may be graded after the due date and will not be late. However, you
 | **Testing Strategy** | - JUnit (or some testing infrastructure) is used to test methods.<br>- Some code is written that performs testing of important pieces of functionality beyond running the program normally. | 3 |
 | **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 2 |
 
-# Project Completion (50)
+# Project Completion (60)
 
 The following rubrics break out the assessment by different areas. 
+
+## <a name='Updates'></a>Updates (10 Pts)
+
+There will be 10 points awarded for submitting your updated Design Document to match your finished project.
 
 ## <a name='Functionality50'></a>Functionality (40 Pts)
 
