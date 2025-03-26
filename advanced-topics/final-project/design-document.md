@@ -133,17 +133,9 @@ This section of the proposal will add more detail as well as Storyboard Sketches
 - Hand drawn or rough wireframe sketches and UI flow diagram.
 - Any user input/output that is needed to control your application including mouse and keyboard interaction (should be part of wireframe flow as well)
 
-### Task Schedule Phase 2
+### Detailed Schedule
 
 Revise your weekly goals with a new Task schedule that includes at least 3-5 subtasks for each week.
-
-## Design Document Details - Phase 3
-
-__More information and updates to the following sections are pending__
-
-The following section includes detailed design document (Something every engineer will spend a lot of time on. Often the more time spent here the less time it takes to get the project work complete as you will save time by avoiding creating project elements that you may just have to throw out or redo)
-
-### Detailed Schedule
 
 This is an ordered list of major pieces of functionality created in an intentional order to help you incrementally create a larger project that works. Each deliverable is a significant piece of functionality that should be completed before the next deliverable starts. While it is often true that one deliverable must be delivered before another can be accomplished, deliverables do not have to have dependencies on one another. This means that two deliverables can be developed in parallel by different members of a team.
 
@@ -161,6 +153,10 @@ You should take your previous weekly schedule and add sub-tasks that are well de
 | Shunting yard class that implements the algorithm to convert in-fix to post-fix. | Unit Tests included. Uses Stacks/Queues. |
 | Full Shunting Yard Calculator. | All components are integrated together to make a fully functional calculator. |
 | Extra operators. | If time, more buttons and operations are added. Example: modulus, square root, log, exponentiation.  |
+
+## Design Document Details - Phase 3
+
+The following section includes detailed design document (Something every engineer will spend a lot of time on. Often the more time spent here the less time it takes to get the project work complete as you will save time by avoiding creating project elements that you may just have to throw out or redo)
 
 ### User Stories
 
@@ -180,8 +176,6 @@ As a `who` I want to `behavior` so that I can `benefit`.
 ### Testing Strategy
 
 Define how you are going to test that your code is working correctly, how you will test edge conditions or errors happening and so forth. Make sure to build time in your schedule to get this done.
-
-
 
 ### High Level Architecture - Summary
 

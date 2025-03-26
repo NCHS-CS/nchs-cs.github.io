@@ -5,28 +5,54 @@ title: Rubrics
 nav_order: 20
 ---
 
-##  <a name='Rubric'></a>Rubric - Phase 1
+# Overview
+{: .no_toc }
+
+{: .notice }
+There are three main rubric categories that are detailed in the following sections for 135 points.
+
+1. TOC
+{:toc}
+
+# Design Document (55)
+
+## <a name='Rubric'></a>Phase 1 (20 pts)
 
 - 80% of your grade for Phase 1 will be determined by providing all sections completed on time.
 - 20% will be provided once you have approval on your phase 1 to move to phase 2.
 
-The approval will be graded after the due date and will not be late. However, you must get this signed off and complete before phase 2 to be graded without any deduction.
+The approval may be graded after the due date and will not be late. However, you must get this signed off and complete well before phase 2 is due to be graded without deduction.
 
-##  <a name='Rubric'></a>Rubric - Phase 2
+| **Category**               | **Criteria**                                                                         | **Points** |
+|----------------------------|--------------------------------------------------------------------------------------|------------|
+| **Project Description**    | - Provides a clear and concise overview of the project (2-4 paragraphs).<br>- Describes the project's functionality in sufficient detail for another developer to understand and potentially implement.<br>- Specifies the use of Java Swing for graphical development. | 5      |
+| **MVP, Core, Stretch Features** | - Clearly defines the essential features that constitute the MVP.<br>- Features are realistic and achievable by the project's midpoint.<br>- Demonstrates understanding of MVP's role in project development.<br>- Shows progression and clear distinction between different feature levels (e.g. tabular like [this](https://nchs-cs.github.io/advanced-topics/final-project/examples/features.html))<br>- MVP features focus on initial validation and essential functionality.<br>- Core features encompass broader functionalities aimed at enhancing user experience and product value.     | 5         |
+| **Purpose & Motivation**   | - Explains the rationale behind choosing the project.<br>- Articulates learning objectives and goals.<br>- Reflects personal or educational significance.                                                                              | 3  |
+| **Learning Targets and Challenge Goals** | - Lists at least three Learning Targets of sufficient scope for the project. | 2  |
+| **High Level Timeline** | - Lists High Level Milestones for the 10-11 weeks the project will fun for.<br>- 7 Development milestones are demonstrable pieces of functionality that can be checked off each Friday.<br>- Milestones are formatted correctly with no time estimates or individual assignments. | 5  |
 
-*TBD*
+##  <a name='Rubric'></a>Phase 2 (15 pts)
 
-##  <a name='Rubric'></a>Rubric - Phase 3
 
-*TBD*
+| **Category**               | **Criteria**                                                                         | **Points** |
+|----------------------------|--------------------------------------------------------------------------------------|------------|
+| **Detailed Schedule (baseline)**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 5      |
+| **User Experience** | - Develop Wireframes and Mockups.<br>- At least 5 different screen layouts<br>- Screen Layouts show connections and annotations to explain how transitions or changes are effected by mouse or keyboard input. | 10         |
 
-##  <a name='Rubric'></a>Rubric - Project Completion
+##  <a name='Rubric'></a>Phase 3 (20 pts)
 
-_This is not yet complete and will have more updates for 2025._
+| **Category**               | **Criteria**                                                                         | **Points** |
+|----------------------------|--------------------------------------------------------------------------------------|------------|
+| **Detailed Design**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 15      |
+| **User Stories**    | - Each tasks on the schedule has at least 1 user story referenced writted per the definition provided. | 5   |
+| **Testing Strategy** | - JUnit (or some testing infrastructure) is used to test methods.<br>- Some code is written that performs testing of important pieces of functionality beyond running the program normally. | 3 |
+| **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 2 |
+
+# Project Completion (50)
 
 The following rubrics break out the assessment by different areas. 
 
-### <a name='Functionality50'></a>Functionality (50%)
+## <a name='Functionality50'></a>Functionality (40 Pts)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
@@ -37,22 +63,21 @@ The following rubrics break out the assessment by different areas.
 | **Data Structures** | Appropriate in all cases. | Mostly good. | Some poor choices. | Poor choices abound. |
 | **Class Design** | Strong use of all: abstraction, encapsulation, inheritance, polymorphism. | Use of inheritance and encapsulation is good. Reasonable set of classes. | Classes used, but not encapsulated well. Over or under-designed. | Few classes. Bad design. |
 
----
-
-### <a name='DocumentationUnitTests30'></a>Documentation/Unit Tests (30%)
+## <a name='Presentation'></a>Presentation (10 Pts)
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
-| **Specification** | All sections are complete, professional, and add value. | All sections are complete, effort is clear. Meets all expectations of a high school developer. | All sections are attempted, yet more effort desired. | Missing sections and/or effort is lacking. |
-| **Task Worksheet** | All sections are professional and add value. Tasks updated daily and closely reflect reality. | All sections are complete with believable data in a timely manner. Effort is clear. | All sections are complete, but perhaps not timely. Some areas lack sufficient thought and/or effort, or appear to be made up. | Missing sections and/or effort is insufficient. |
-| **Unit Tests (upon request)** | JUnit (or some professional testing infrastructure) is used to test many methods. | Some code is written that performs testing of important pieces of functionality beyond running the program normally. | The code has remnants of unit testing. | No artifacts of testing present. |
-
----
-
-### <a name='Professionalism20'></a>Professionalism (20%)
-
-| **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
-|---------------------------|----------------------|------------------------|-------------------|------------------|
-| **Demo Days** | Clear achievements made during each demo. Shared learning along with functionality. Worksheet is complete. | Some progress is demonstrated. Worksheet has some updates. | Progress is missing or too small. Worksheet is missing important information. | No progress is discernible. Worksheet is inadequate. |
 | **Formal Presentation** | Thorough presentation of project: functionality, learnings, and experience. Professional slides and/or presentation. | Demonstrates functionality and some insight into the development experience. No slides necessary. Reasonable quality of presentation. | Falls short of sharing functionality or experience. Presentation lacks quantity or quality. | Missing or woefully disorganized, lacking details. |
+
+---
+
+# Ongoing (30)
+
+## <a name='Professionalism'></a>Professionalism (30 pts)
+
+This section will be ongoing through the entire project lifecycle and count towards the final grade.
+
+| **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
+|---------------------------|----------------------|------------------------|-------------------|------------------|
+| **Demo Days** | Clear achievements made during each demo. Shared learning along with functionality. Tasklist is completely up to date. | Some progress is demonstrated. Task List has some updates. | Progress is missing or too small. Worksheet is missing important information. | No progress is discernible. Worksheet is inadequate. |
 | **Independence** | No instances of being off task. Asks for hints occasionally, independently researches, demonstrates problem-solving abilities. | 1 or 2 reminders needed to be on task. Needs help with difficult issues but demonstrates ability to debug and grow independently. | 3+ reminders to get back on task. Consistently unable to resolve (minor) issues without assistance. | Frequently off task. Cannot make progress without assistance. |
