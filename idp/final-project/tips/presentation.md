@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: Project Tips
+parent: Tips
 title: Presentation
 nav_order: 150
 ---

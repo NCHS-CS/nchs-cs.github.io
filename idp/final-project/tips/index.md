@@ -1,7 +1,7 @@
 ---
 layout: default_dl
-title: Project Tips
-parent: IDP
+title: Tips
+parent: IDP - Final Project
 nav_order: 100
 ---
 

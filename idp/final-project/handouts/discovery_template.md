@@ -8,7 +8,13 @@ nav_order: 1
 # Discovery Project Template
 
 {: .notice }
-Replace all content below with your own content. Review the [detailed instructions](discovery)
+Replace all content below with your own content. Review the [detailed instructions](discovery).
+
+{: .notice }
+You may also start from the shared google doc template [here](https://docs.google.com/document/d/1rP7uUcpcZBdhIbtBRzdobj-UxHOola5ksn9sEVCTO_w/edit?usp=sharing).
+
+{: .warn }
+You must submit your finished document to schoology. Include a copy of this in your doc folder in github at the same time with all relevant files.
 
 **Student Name 1:** ____________________  
 **Student Name 2:** ____________________  
@@ -44,7 +50,7 @@ This is the MOST important part of this document. (more details below) You will 
   * The data must be real — neither you nor someone else may make up the data.  
   * The data must be large enough (500 lines or more).  
 
-You need to list out all your datasets, sources, caveats, important columns, data values, and relevent information. This section should contain multiple tables or other easy to read formats. While you may copy some information from your datasource, it is critical that you understand the data.
+You need to list out all your datasets, sources, caveats, important columns, data values, and relevant information. This section should contain multiple tables or other easy to read formats. While you may copy some information from your datasource, it is critical that you understand the data.
 
 You should:  
 

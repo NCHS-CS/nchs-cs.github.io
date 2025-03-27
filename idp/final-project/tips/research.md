@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: IDP - Final Project
+parent: Tips
 title: Research
 nav_order: 55
 ---

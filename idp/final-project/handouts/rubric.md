@@ -1,7 +1,7 @@
 ---
 layout: default_dl
 parent: IDP - Final Project
-title: IDP FP Rubrics
+title: Rubrics
 nav_order: 30
 ---
 

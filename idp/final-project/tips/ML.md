@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: Project Tips
+parent: Tips
 title: Machine Learning
 nav_order: 120
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default_dl
-parent: Project Tips
+parent: Tips
 title: Final Report
 nav_order: 130
 ---
