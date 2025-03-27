@@ -13,7 +13,7 @@ Replace all content below with your own content. Review the [detailed instructio
 {: .notice }
 You may also start from the shared google doc template [here](https://docs.google.com/document/d/1rP7uUcpcZBdhIbtBRzdobj-UxHOola5ksn9sEVCTO_w/edit?usp=sharing).
 
-{: .warn }
+{: .warning }
 You must submit your finished document to schoology. Include a copy of this in your doc folder in github at the same time with all relevant files.
 
 **Student Name 1:** ____________________  
