@@ -53,4 +53,4 @@ The Discovery Document's purpose is to:
 
 ## Grading
 
-The discovery document will be graded based on adherence to the above guidelines. There is no formal rubric for this deliverable.
+Grading for this document will follow this rubric guide [here](/idp/final-project/handouts/rubric)

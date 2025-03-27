@@ -47,6 +47,8 @@ Work hard to create plots that speak volumes!
 
 ## Project Rubric
 
+_Final rubric TBD_
+
 The following are used to determine your score:  
 * Professionally written    
 * Creativity, quantity, and quality of plots   

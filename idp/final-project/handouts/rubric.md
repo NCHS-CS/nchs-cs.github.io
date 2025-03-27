@@ -1,4 +1,9 @@
-`TODO: Publish after creating the next one (update links in other docs that refer to rubrics etc to this as well.)...`
+---
+layout: default_dl
+parent: IDP - Final Project
+title: IDP FP Rubrics
+nav_order: 30
+---
 
 # IDP Final Project Rubric
 
