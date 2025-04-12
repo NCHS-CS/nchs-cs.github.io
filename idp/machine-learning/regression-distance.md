@@ -26,7 +26,7 @@ Listing out the **Coefficients** and **Feature Importance** helps us understand 
 {% tab distance_study Data %}
 Please look at the [Distance Case Study](../../visualizations/case_study_dist). 
 Here is a scatter plot of all the data and we can see it pretty messy. There are some patterns one can extract, but very little is obvious.    
-![All Distance Data](../static/machine%20learning%20tab/fi_dist_scatter.png)  
+![All Distance Data](../static/fi_dist_scatter.png)  
 **Code to generate plot**
 ```python
 sns.scatterplot(x=df['age'], y=df['distance'], hue=df['sport'], size=df['gender'])
@@ -149,8 +149,8 @@ To get an truly insightful understanding of how a model is make its predictions,
 
 To generate these graphs, we had to create a `DataFrame` with all possible combinations of the features and then do a prediction. The predictions are graphed here:  
 
-![Linear Regressor Predictions](../static/machine%20learning%20tab/fi_linear_predictions.png)
-![Decision Tree Regressor Predictions](../static/machine%20learning%20tab/fi_dt_predictions.png)  
+![Linear Regressor Predictions](../static/fi_linear_predictions.png)
+![Decision Tree Regressor Predictions](../static/fi_dt_predictions.png)  
 
 > **NOTE**: The DecisionTreeRegressor was not bounded when learning. The complexity of the predictions could have been simplified and, perhaps, the MSE could have been reduced if we had optimized max_depth via **hyperparameter tuning**. For simplicity, we did not do this. Having the complexity also helps establish that the model output was quite complicated and likely represented some **over fitting**.  
 
