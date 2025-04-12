@@ -2,7 +2,7 @@
 layout: default_dl
 title: Machine Learning
 parent: IDP
-nav_order: 25
+nav_order: 90
 ---
 
 # Machine Learning
@@ -16,7 +16,7 @@ The primary takeaways are:
 3. Work to get a 'Goldilocks' fit model (not underfitted, not overfitted)
 4. Explore the Fairness of your model
 
-## Topics
+<!-- ## Topics
 
 - [Feature Importance](./machine-learning/feature-importance.html)
 - [Assessing Accuracy](./machine-learning/assessing-accuracy.html)
@@ -24,4 +24,4 @@ The primary takeaways are:
 - [Regression - Distance Study](./machine-learning/regression-distance.html)
 - [Classification - Fully Random](./machine-learning/classification-fully-random.html)
 - [When to Avoid Using Machine Learning](./machine-learning/when-to-avoid.html)
-
+ -->
