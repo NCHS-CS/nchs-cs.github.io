@@ -17,27 +17,45 @@ main.bd-content #main-content .prev-next-bottom .right-next i.fa-fw {
 
 /* Remove bullet points from tabs */
 .tab {
-  list-style-type: none;
+  list-style-type: none !important;
   margin: 0;
   padding: 0;
 }
 
 .tab-content {
-  list-style-type: none;
+  list-style-type: none !important;
   margin: 0;
   padding: 0;
 }
 
 .tab li,
 .tab-content li {
-  list-style-type: none;
-  list-style: none;
+  list-style-type: none !important;
+  list-style: none !important;
+  list-style-image: none !important;
+  margin-left: 0 !important;
 }
 
 .tab > li,
 .tab-content > li {
-  list-style-type: none;
-  list-style: none;
+  list-style-type: none !important;
+  list-style: none !important;
+  list-style-image: none !important;
+  margin-left: 0 !important;
+}
+
+/* Target all lists and list items inside tab content */
+.tab-content ul,
+.tab-content ol,
+.tab-content li,
+.tab-content li ul,
+.tab-content li ol,
+.tab-content li li {
+  list-style-type: none !important;
+  list-style: none !important;
+  list-style-image: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 .table-section {

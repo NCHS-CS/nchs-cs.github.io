@@ -1,70 +1,114 @@
+/* Target the tab container with higher specificity */
+body ul.tab,
+.main-content ul.tab {
+  list-style: none !important;
+}
+
+/* Target the list items within the tab with higher specificity */
+body ul.tab > li,
+.main-content ul.tab > li {
+  list-style: none !important;
+}
+
+/* Remove any pseudo-elements from tab labels */
+body ul.tab > li::before,
+.main-content ul.tab > li::before {
+  content: none !important;
+}
+
+/* Target the tab content container with higher specificity */
+body ul.tab-content,
+.main-content ul.tab-content {
+  list-style: none !important;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Target all list items within tab content with higher specificity */
+body ul.tab-content > li,
+.main-content ul.tab-content > li {
+  list-style: none !important;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Remove any pseudo-elements from tab content list items */
+body ul.tab-content > li::before,
+.main-content ul.tab-content > li::before {
+  content: none !important;
+}
+
+/* Ensure nested lists within tab content have no bullets */
+body ul.tab-content ul,
+body ul.tab-content li,
+.main-content ul.tab-content ul,
+.main-content ul.tab-content li {
+  list-style: none !important;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Existing tab styles */
 .tab {
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -20px;
-    padding: 0;
-    list-style: none;
-    position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -20px;
+  padding: 0;
+  position: relative;
 }
 
 .tab > * {
-    flex: none;
-    padding-left: 20px;
-    position: relative;
+  flex: none;
+  padding-left: 20px;
+  position: relative;
 }
 
 .tab > * > a {
-    display: block;
-    text-align: center;
-    padding: 9px 20px;
-    color: #999;
-    border-bottom: 2px solid transparent;
-    border-bottom-color: transparent;
-    font-size: 12px;
-    text-transform: uppercase;
-    transition: color .1s ease-in-out;
-    line-height: 20px;
+  display: block;
+  text-align: center;
+  padding: 9px 20px;
+  color: #999;
+  border-bottom: 2px solid transparent;
+  font-size: 12px;
+  text-transform: uppercase;
+  transition: color .1s ease-in-out;
+  line-height: 20px;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .tab > .active > a {
-    color:#222;
-    border-color: #1e87f0;
+  color: #222;
+  border-color: #1e87f0;
 }
 
-.tab > li > a {
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.tab-content {
-    padding: 0;
-}
-
+/* Tab content display rules */
 .tab-content > li {
-    display: none;
-}
-.tab-content > li.active {
-    display: block;
+  display: none;
 }
 
-/* The 2 following blocks can be removed if the script is not configured to show the toast message */
+.tab-content > li.active {
+  display: block;
+}
+
+/* Toast message styles (optional, remove if not needed) */
 #jekyll-tabs-copy-to-clipboard-message {
-    visibility: hidden;
-    min-width: 250px;
-    margin-left: -125px;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 2px;
-    padding: 16px;
-    position: fixed;
-    z-index: 1;
-    right: 50%;
-    bottom: 30px;
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  right: 50%;
+  bottom: 30px;
 }
 
 #jekyll-tabs-copy-to-clipboard-message.show {
-    visibility: visible;
-    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
-    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }

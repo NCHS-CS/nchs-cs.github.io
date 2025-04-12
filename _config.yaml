@@ -52,3 +52,8 @@ defaults:
       type: "pages"
     values:
       parent: Visualizations
+  - scope:
+      path: "idp/machine-learning/"
+      type: "pages"
+    values:
+      parent: Machine Learning
