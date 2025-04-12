@@ -4,6 +4,7 @@ title: Bar Charts
 ---
 
 # Bar Charts
+{% include toc.md %}
 
 Bar charts are good when:  
 * The x-axis is categorical and does not have a natural order (e.g., Country names).  
