@@ -1,5 +1,5 @@
 ---
-layout: custom_default
+layout: home
 title: NCHS Computer Science
 permalink: /index
 nav_order: 10

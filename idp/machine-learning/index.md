@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default_dl
 title: Machine Learning
 parent: IDP
 nav_order: 90
