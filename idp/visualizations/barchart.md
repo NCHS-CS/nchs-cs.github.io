@@ -1,8 +1,6 @@
 ---
 layout: default_dl
 title: Bar Charts
-parent: Visualizations
-nav_order: 1
 ---
 
 # Bar Charts

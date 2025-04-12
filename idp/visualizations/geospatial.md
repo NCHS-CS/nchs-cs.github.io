@@ -1,8 +1,6 @@
 ---
 layout: default_dl
 title: Geospatial Plots
-parent: Visualizations
-nav_order: 5
 ---
 
 # Geospatial Plots
