@@ -27,41 +27,28 @@ This description will vary in length and detail. It could be as short as 4 sente
 
 Provide a brief description of your project idea (2-3 sentences). Explain what your program will do and how it will use Java Swing for graphical development.
 
-**MVP** 
-
-(Minimum Viable Product). Describe the absolute fewest pieces of functionality that defines success. See the section below that describes more details on the different feature __levels__. This is not your target set of functionality from above. It should describe the set of features you’re confident to complete by midway through your project timeline.
-
-**Purpose & Motivation:**
+### Purpose & Motivation:
 
 Why did you choose this project? What do you hope to learn or accomplish?
 
-**Project Scope & Features**
-
-**Core Features:**
-
-List at least **three main features** that your Java Swing application will include. Examples:
-
-- Interactive buttons and menus
-- Dynamic animations
-- User input handling (e.g., keyboard/mouse events)
-
-**Additional Features:**
-
-What extra features or stretch goals are you planning to implement if time permits?
-
-Stretch Features: List the features that are bonus and completely unnecessary. These will be added only as time permits. 
+### Project Scope & Features
 
 The difference between **Minimum Viable Product (MVP) features** and **core features** lies in their purpose, scope, and timing in product development.
 
-### **MVP Features**  
-- **Definition:** The minimum set of features required to make a product functional and deliver value to early adopters.  
+{: .notice-title }
+> Key Difference
+> 
+> MVP features focus on quick validation (often to allow changes to the product specification to adjust to user testing), while core features focus on delivering a complete, competitive, and sustainable product.
+
+### MVP Features
+- **Definition:** `Minimum Viable Product.` The minimum set of features required to make a product functional and deliver value to early adopters or testers.
 - **Purpose:** To validate an idea, test market demand, and gather user feedback with minimal effort. You can use this step of development to try out some of your ideas on your fellow classmates _well before the final project due date._
 - **Scope:** Limited to essential functionalities that solve the primary problem.  
 - **Timing:** Released in the earliest stage of development to test hypotheses.  
 - **Examples:**  
   - A ride-sharing app MVP might only allow users to request a ride and drivers to accept it (without payment integration or advanced route optimization).  
 
-### **Core Features**  
+### Core Features
 - **Definition:** The fundamental and defining features of a product that provide its long-term value.
 - **Purpose:** To sustain and grow the product, enhancing user experience and differentiation. This should be your goal for the finished product.
 - **Scope:** A broader set of functionalities beyond the MVP, including optimizations, competitive advantages, and scalability.  
@@ -69,10 +56,41 @@ The difference between **Minimum Viable Product (MVP) features** and **core feat
 - **Examples:**  
   - In the same ride-sharing app, core features may include fare estimation, surge pricing, driver ratings, and in-app payments.  
 
-{: .notice-title }
-> Key Difference
-> 
-> MVP features focus on quick validation (often to allow changes to the product specification to adjust to user testing), while core features focus on delivering a complete, competitive, and sustainable product.
+You must list at least **three main features** that your Java Swing application will include. Examples:
+
+- Interactive buttons and menus
+- Dynamic animations
+- User input handling (e.g., keyboard/mouse events)
+
+### Stretch Features
+
+What extra features or stretch goals are you planning to implement if time permits? List the features that are bonus and completely unnecessary. These will be added only as time permits.
+
+{% capture mycontent %}
+| Feature Category | MVP Features (Essential for Launch) | Core Features (Enhance Experience) | Stretch Features (Future Enhancements) |
+|-----------------|-----------------------------------|-----------------------------------|-------------------------------------|
+| User Management | User registration & login | Profile verification & preferences | AI-based ride recommendations |
+| Ride Booking | Basic ride request & acceptance | Ride scheduling & multi-stop trips | Subscription plans for frequent users |
+| Payment | Cash or manual payment handling | In-app payments & fare estimation | Cryptocurrency payments |
+| Navigation | Basic driver-passenger location sharing | Real-time traffic-based route optimization | Augmented reality (AR) navigation |
+| Safety | Driver & passenger ratings | Emergency SOS button | AI-driven fraud detection & background checks |
+{% endcapture %}
+
+{: .example }
+> Here's a simple example of a feature table with **MVP**, **Core**, and **Stretch** features for a **ride-sharing app**: 
+
+<details>
+  <summary>
+    Example Feature Matrix
+  </summary>
+  {{ mycontent | markdownify }}
+
+  For each of these features listed in the first column you should include more detailed specifics in separate paragraphs.
+
+  **User Management**
+  > 
+  > This will include how users connect to the system, how they are authenticated and any additional information that is attached to their user profile...
+</details>
 
 ### Learning Targets and Challenge Goals
 
@@ -233,21 +251,22 @@ Clearly documenting key algorithms is essential for ensuring a well-structured a
 - Avoid excessive detail—this is not a full implementation but rather a roadmap for development.  
 
 {: .example }
-> **AI Pathfinding**  
-> The AI will use pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations.
-> ```mermaid
-> flowchart LR
->     A[Start Pathfinding] --> B{Is Goal Reached?}
->     B -- Yes --> G[End Pathfinding]
->     B -- No --> C[Get Walkable Neighbors of Current Node]
->     C --> H["Score Neighbors<br>& select lowest total"]
->     H --> I{Recalculation Needed?}
->     I -- No --> J[Move to Next Node]
->     I -- Yes --> K[Recalculate Limited Path]
->     K --> J
->     J --> B
-> ```
+> **AI Pathfinding** - The AI will use pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the > goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations.
 
+{: .mx-8 }
+{: .px-8 }
+```mermaid
+ flowchart TD
+     A[Start Pathfinding] --> B{Is Goal Reached?}
+     B -- Yes --> G[End Pathfinding]
+     B -- No --> C[Get Walkable Neighbors of Current Node]
+     C --> H["Score Neighbors<br>& select lowest total"]
+     H --> I{Recalculation Needed?}
+     I -- No --> J[Move to Next Node]
+     I -- Yes --> K[Recalculate Limited Path]
+     K --> J
+     J --> B
+ ```
 
 This level of detail provides enough guidance without overwhelming the design document with unnecessary complexity.
 
