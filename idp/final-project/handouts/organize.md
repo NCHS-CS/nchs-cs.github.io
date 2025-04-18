@@ -110,7 +110,7 @@ You must make use of the **Folders** provided:
 You must make use of the **Files** provided:
 * `mach_learning.py` : If you are doing the Machine Learning challenge, create and train your models in this file. Be ready to do more than just create a model.   
 * `main.py` : Create amazing plots in this file. You will read the data from `data_organized` (unless your raw data required no reduction, in which case you can read your data from `raw_data`). You will do plot-related work such as joins, column filtering, pivots, small calculations and other simple organizational work.  
-* `prepocess_data.py` : This file is intended to do the following types of work:
+* `preprocess_data.py` : This file is intended to do the following types of work:
     * download data from APIs  
     * screenscrape data from websites  
     * reduce the size of large datasets to something more manageable  
