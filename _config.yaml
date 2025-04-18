@@ -29,6 +29,9 @@ callouts:
   alert:
     title: Alert
     color: red
+  example:
+    title: Example
+    color: green
 
 enable_copy_code_button: true
 

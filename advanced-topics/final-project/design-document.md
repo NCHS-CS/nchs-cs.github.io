@@ -187,7 +187,7 @@ Ask yourself, “What is the difficult part about the project? How will I solve 
 
 Lastly, consider what classes you will create, their roles & responsibilities, how your classes will interface with one another, where data will come from, and what data structures will be used. If there are lots of data sources and paths, making a diagram can help add clarity. Many projects will not require a Data Flow Diagram.
 
-#### Diagrams
+### Diagrams
 
 You should consider at a minimum to create the following diagrams:
 
@@ -197,7 +197,7 @@ You should consider at a minimum to create the following diagrams:
 
 **Flow Chart Diagram**: A flowchart diagram in a detailed design document shows the step-by-step logic of a process or method. It uses shapes like diamonds (decisions) and rectangles (actions) to represent control flow. Flowcharts are ideal for illustrating branching paths, loops, or procedural algorithms. They help readers visualize how specific game features or functions work internally. Use them when the logic is too complex for plain text or pseudocode alone.
 
-#### Class Roles & Responsibilities
+### Class Roles & Responsibilities
 
 Builing on the diagrams you created in the last section you should expand on the details for as many of your classes that you can identify and their roles & responsibilities. It could be that that will be enough. If you cannot list off at least three classes, the project is not complex enough.
 
@@ -223,9 +223,25 @@ Clearly documenting key algorithms is essential for ensuring a well-structured a
 - If applicable, mention key considerations like efficiency, potential bottlenecks, or alternative approaches.  
 - Avoid excessive detail—this is not a full implementation but rather a roadmap for development.  
 
-For example:  
-**Example: AI Pathfinding**  
-_The AI will use A* pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations._  
+{: .example }
+> **AI Pathfinding**  
+> The AI will use pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations.
+> ```mermaid
+> flowchart TD
+>     A[Start Pathfinding] --> B{Is Goal Reached?}
+>     B -- Yes --> G[End Pathfinding]
+>     B -- No --> C[Get Walkable Neighbors of Current Node]
+>     C --> D["Evaluate Heuristic (Estimated Distance to Goal)"]
+>     D --> E[Evaluate Actual Cost from Start]
+>     E --> F[Compute Total Score = Heuristic + Actual Cost]
+>     F --> H[Select Next Node with Lowest Total Score]
+>     H --> I{Is Recalculation Needed?}
+>     I -- No --> J[Move to Next Node]
+>     I -- Yes --> K[Recalculate Limited Path Area]
+>     K --> J
+>     J --> B
+> ```
+
 
 This level of detail provides enough guidance without overwhelming the design document with unnecessary complexity.
 
