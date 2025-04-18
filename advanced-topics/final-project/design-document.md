@@ -177,6 +177,15 @@ As a `who` I want to `behavior` so that I can `benefit`.
 
 Define how you are going to test that your code is working correctly, how you will test edge conditions or errors happening and so forth. Make sure to build time in your schedule to get this done.
 
+An example for a testing strategy may be:
+
+| Test Category | Details |
+| ---- | ---- |
+| UI Testing (MVP) | At MVP we will provide students X,Y,Z our application with a sheet to fill in answers to the following questions:<br>- What can be improved?<br>- What did each of the icons on the main screen mean to you?<br>- _etc_ |
+| Manual Testing | Before each demo we will do the following manual tests:<br>- Go to main screen and click X, and make sure Y comes up<br>- _etc_ many more |
+| Automated testing | We will implement automated tests for the following classes/methods: <br>- MainScreen.java (all of it)<br>- CustomScreen.java:specialCalc<br>- _etc_ |
+| _Other testing_ | Any other type of testing you might be thinking of |
+
 ### High Level Architecture - Summary
 
 This section will most likely be hard to create.
@@ -227,17 +236,14 @@ Clearly documenting key algorithms is essential for ensuring a well-structured a
 > **AI Pathfinding**  
 > The AI will use pathfinding to navigate around obstacles. The algorithm will work by evaluating possible movement nodes based on a heuristic function (estimated distance to the goal) and the actual movement cost. This ensures the AI finds the shortest path efficiently. We will precompute walkable areas and optimize performance by limiting path recalculations.
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A[Start Pathfinding] --> B{Is Goal Reached?}
 >     B -- Yes --> G[End Pathfinding]
 >     B -- No --> C[Get Walkable Neighbors of Current Node]
->     C --> D["Evaluate Heuristic (Estimated Distance to Goal)"]
->     D --> E[Evaluate Actual Cost from Start]
->     E --> F[Compute Total Score = Heuristic + Actual Cost]
->     F --> H[Select Next Node with Lowest Total Score]
->     H --> I{Is Recalculation Needed?}
+>     C --> H["Score Neighbors<br>& select lowest total"]
+>     H --> I{Recalculation Needed?}
 >     I -- No --> J[Move to Next Node]
->     I -- Yes --> K[Recalculate Limited Path Area]
+>     I -- Yes --> K[Recalculate Limited Path]
 >     K --> J
 >     J --> B
 > ```
