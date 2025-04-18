@@ -10,11 +10,16 @@ You will deliver the following:
 
 * Reduced data through any `pre-processing`.
 * Code that will:
-    * Collect Data (if there is any `web scraping` or use of other tools)  
+    * Collect Data (if there is any `web scraping` or use of other tools)
     * Reduce, Filter and Organize the data
     * Test (if you are doing the Unit Test Challenge)
 * Sketches of target plots  
-* Some Unit Tests (Challenge Goal only)  
+* Some Unit Tests (Challenge Goal only)
+
+{: .notice-title }
+> GitHub submission required
+> 
+> Your `./README.md` must be updated with a description of all your work with links. All other files must be submitted to github folders per directions here. Submit your plot sketches as `./plots/plots.pdf` or `./plots/README.md` file with links and description of your plots in your `./plots` folder.
 
 More often than not, the raw data is not ready for plotting. The data needs to be rearranged and organized into a format that allows for `matplotlib.pyplot` to plot. The data may need to be reduced, filtered, joined, calculated or reorganized. 
 
