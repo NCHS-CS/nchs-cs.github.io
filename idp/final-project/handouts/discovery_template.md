@@ -14,7 +14,7 @@ Replace all content below with your own content. Review the [detailed instructio
 You may also start from the shared google doc template [here](https://docs.google.com/document/d/1rP7uUcpcZBdhIbtBRzdobj-UxHOola5ksn9sEVCTO_w/edit?usp=sharing).
 
 {: .warning }
-You must submit your finished document to schoology. Include a copy of this in your doc folder in github at the same time with all relevant files.
+You must submit your finished document **as either a PDF or Markdown (.md) file** to the `discovery/` folder in your final project GitHub repository. If it is not present, add it. **It should not be submitted to Schoology.**
 
 **Student Name 1:** ____________________  
 **Student Name 2:** ____________________  

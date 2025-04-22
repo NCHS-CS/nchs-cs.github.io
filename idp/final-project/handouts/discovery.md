@@ -17,6 +17,9 @@ You will deliver the following:
 * Target Challenge Goals
 * As a guide your document should be between 1500 and 2500 words at most excluding your datasets. (3-5 pages). You will be marked down for going over this.
 
+{: .warning }
+You must submit your finished document **as either a PDF or Markdown (.md) file** to the `discovery/` folder in your final project GitHub repository. If it is not present, add it. **It should not be submitted to Schoology.**
+
 You do not need to have any code written yet, but you may want to use some code to help you learn about the data. For example, you may want to print out the columns or get some statistical information about the data using code.  
 
 You can use Excel or other tools to view the data.  
