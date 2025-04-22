@@ -9,6 +9,7 @@ nav_order: 5
 
 Review the [document template](discovery_template) and fill in all the sections.
 
+
 You will deliver the following:
 
 * The main goal of this document is to create the "context and scope" of what you are answering. What is your "research topic" in 3 bullet questions.
@@ -16,6 +17,9 @@ You will deliver the following:
 * Submit to GitHub your folder of raw_data (or links to a Google Folder if over 1GB).  
 * Target Challenge Goals
 * As a guide your document should be between 1500 and 2500 words at most excluding your datasets. (3-5 pages). You will be marked down for going over this.
+
+{: .notice }
+Your GitHub project should have a `discovery/` folder. Add it if it is not present. **Your final discovery document should be placed in this folder as a PDF or a Markdown (.md) file.**
 
 You do not need to have any code written yet, but you may want to use some code to help you learn about the data. For example, you may want to print out the columns or get some statistical information about the data using code.  
 
