@@ -523,7 +523,7 @@ Secondly, the older participants make up a very small percentage of the people o
 > In the code below you’ll see that we create three different DataFrames:  
 > 1) A new dataframe, `df2`, that has Distance "bins" and Age-Brackets for each person (not shown).  
 > 2) A `pivot_table` created using `pd.pivot_table` API which is a fancy way to count the number of people in each bin for each age-bracket. This could also have been done using `df.groupby`.  
-> 3) A DataFrame structured identicallyå to the pivot table, only all the values are converted to percentages of the row.  
+> 3) A DataFrame structured identically to the pivot table, only all the values are converted to percentages of the row.  
 > 
 > **DataFrame `pivot_table`**  
 > ![DataFrame df2](../static/visualizations%20tab/case%20study%20on%20distance/dist_age_df2.jpg)   
