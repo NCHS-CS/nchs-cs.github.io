@@ -17,4 +17,5 @@ gem "sassc", "~> 2.4.0"  # Ensure sassc is used instead of Dart Sass
 
 group :jekyll_plugins do
   gem "jekyll-tabs"
+  gem "jekyll-spaceship"
 end

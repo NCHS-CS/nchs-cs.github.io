@@ -93,7 +93,8 @@ We can see from the **Coefficients** determined in the LinearRegressor that the 
 The **DecisionTreeRegressor** reveals how important it thinks each feature is. The most important to the model is `age` at 50%, then `gender` at 29%, followed by Baseball, None, and Track _dummy_ features.  
 
 The `LinearRegressor` is much more transparent in how it does its predictions. Approx:   
-$dist = 54 + 17*male - 0.46*age + 15*Baseball + 4.9*Football - 6*None - ...$
+
+$dist = 54 + 17 \times male - 0.46 \times age + 15 \times Baseball + 4.9 \times Football - 6 \times None - ...$
 
 {% endtab %}
 
