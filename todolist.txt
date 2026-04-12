@@ -1,5 +1,0 @@
-
-- idp/static - lots of unused stuff - could be cleared out and just keep a few of the images needed.
-
-- update ../../machine-learning/regression-distance for challenges
-- add / update rubrics

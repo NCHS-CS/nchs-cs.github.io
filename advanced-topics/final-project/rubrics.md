@@ -44,7 +44,14 @@ There are three main rubric categories that are detailed in the following sectio
 | **Detailed Schedule (baseline)**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 5      |
 | **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 5 |
 
-# Project Completion (60)
+# Project Completion (TBD)
+
+TBD: Rubrics for this section are in process of being updated to reflect:
+
+1. Adherence to coding style guidelines
+2. Testing Requirements for final code submission
+3. Requirements for the Functional Specification
+4. Presentation Details
 
 The following rubrics break out the assessment by different areas. 
 
