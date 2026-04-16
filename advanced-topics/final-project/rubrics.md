@@ -44,20 +44,51 @@ There are three main rubric categories that are detailed in the following sectio
 | **Detailed Schedule (baseline)**    | - All weekly goals have a subset of at least 4 tasks that will be individually assigned and estimated (assignments not required)<br>- All tasks have reasonable initial estimates<br>- Initial estimates with multiplier fits within a reasonable range of a weeks work in class.<br>- Actual times can be recorded to calculate the teams velocity each week to adjust future work estimates. | 5      |
 | **Algorithms** | - Clearly documents key algorithms (If your project has approval for no algorithms, your detailed design will be weighted with these points) | 5 |
 
-# Project Completion (TBD)
+# Project Completion (100 pts)
 
-TBD: Rubrics for this section are in process of being updated to reflect:
+## Code Quality, Design and Testing (50 pts)
 
-1. Adherence to coding style guidelines
-2. Testing Requirements for final code submission
-3. Requirements for the Functional Specification
-4. Presentation Details
+This will be evaluated on your project code complete date. You may still work on features and code after this date for your final presentation and class evaluation but that code will not be evaluated.
 
-# Ongoing (30)
+| Criteria | Exemplary | Proficient | Developing |
+| :--- | :--- | :--- | :--- |
+| **Project Complexity & Scope** | **High technical ambition**; project reflects a full semester of collaborative effort. Successfully integrates **complex algorithms** (e.g., custom Trees, Maps, Queues) or advanced JavaFX features. | **Appropriate difficulty** for a semester-long project. Features a functional, well-designed JavaFX GUI and "complex enough" logic to be achievable yet challenging. Demonstrates sustained learning over the term. | **Lack of significant learning** or technical difficulty. Project scope feels more like an individual or short-term assignment; lacks the "sophisticated" depth expected for this level of study. |
+| **Testing Requirements** | **20+ functional tests** covering multiple categories such as Smoke, Logic, Interaction, and Simulated Input. Includes **Negative Testing** and edge cases. Code coverage for testing is 80% or greater. | 10–15 tests covering 2-3 categories. Tests core mechanics and the "Happy Path" with specific assertions. | Fewer than 10 tests; logic coverage is limited to basic use cases with weak assertions. |
+| **Code Guidelines & Style** | 100% adherence to Java naming conventions. **All** external code (from AI or internet) is clearly attributed in the README. Code is highly readable (aka neatly formatted and sensible variable naming) with professional javadoc comments for all classes and public methods. | Follows standard Java style. Required javadoc comments and source attributions for external code are present. | Inconsistent style or naming; missing or incomplete attribution for external code snippets. |
+| **Class Design, Modularity & Stability** | **Strong use of all: abstraction, encapsulation, inheritance, and polymorphism**. Uses optimal data structures and has **no major bugs or glitches**. Logic is highly modular. | Good use of inheritance and encapsulation. Reasonable set of classes and mostly appropriate data structure choices. Only minor bugs present. | Classes used but poorly encapsulated; logic is over or under-designed. Significant bugs or poor data structure choices impact performance. |
+
+## Functional Specification (20 pts)
+
+This rubric evaluates the final design artifacts, including the comparison of your original plan against the final product.
+
+| Criteria | Exemplary | Proficient | Developing |
+| :--- | :--- | :--- | :--- |
+| **Updated Class Diagram** | Highly detailed and **accurate** diagram reflecting the final class structure, including all public attributes, methods, and relationships. | Accurate diagram of the final code, though it may lack some minor attributes or specific relationship types. | Diagram is outdated, missing classes, or does not match the final implementation of the code. |
+| **Functional Table (Planned vs. Actual)** | **Comprehensive comparison table** that maps every original planned feature to its actual final state, including pivots and improvements. | Complete table showing planned vs. actual features, though some nuances of the "Actual" implementation may be brief. | Incomplete table; does not clearly show the relationship between the original plan and the final product. |
+| **Learning Journal Summary** | A **minimum one-page summary** that connects specific code sections to weekly learnings and skills gained (e.g., Maps, Anonymous Classes, Trees). | One-page summary detailing general technical growth and weekly progress, but with fewer links to specific code. | Summary is less than a page or lacks specific examples of technical skills and experiences gained. |
+
+## Presentation (30 pts)
+
+There will be two sections to your presentation where you will be reviewed for completeness by the Teacher as well as a Peer assessment.
+
+| Criteria | Exemplary | Proficient | Developing |
+| :--- | :--- | :--- | :--- |
+| **Content & Requirements** | Includes all 9 sections: **Introduction, Goals, Lessons Learned, Schedule Tracking, Biggest Changes, Challenges, Teamwork, Features, and Major Bugs**. | Includes most sections but may lack detail in areas like Schedule Tracking or Teamwork learnings. | Missing several key sections; fails to provide a complete picture of the project lifecycle. |
+| **Demo & Feature Showcase** | Seamless demonstration of all final features. Clearly explains the "Biggest Changes" from the original plan and accounts for any **major bugs** still present. | Clear demonstration of core features. Mentions challenges and features but lacks depth on the evolution of the plan. | Demonstration is unorganized or buggy. Does not clearly showcase features or explain deviations from the plan. |
+| **Learnings & Teamwork** | Deep reflection on **Lessons Learned** and **Teamwork**. Relates specific technical "ah-ha" moments to the development process and code. | Discusses general lessons and the teamwork experience with some specific examples. | Minimal insight into what was learned or how the team collaborated throughout the project. |
+| **[Peer] Engagement & Delivery** | Presentation was captivating and highly professional. Peers felt fully engaged; slides were creative and easy to follow. | Presentation was clear and professional. Peers remained attentive and understood the project's purpose. | Presentation was difficult to follow or uninteresting. Peers struggled to stay engaged due to lack of clarity or preparation. |
+| **[Peer] Perceived Effort & Completion** | Peers agree the project clearly reflects **6+ hours of work per week**. The app feels "complete" and "sophisticated" for a semester-long team project. | Project appears to meet the appropriate difficulty for the timeframe. Peers believe it shows consistent effort. | Project feels rushed or underscoped. Peers perceive a lack of dedication or effort compared to the semester timeframe. |
+| **[Peer] Integrity & Originality** | Work is clearly "their own." Any AI or internet code was disclosed in the presentation. Team was able to answer all questions during Q&A. | Most work appears original. Attributions are present for external sources. Team shows a good understanding of the code's logic. | Peers suspect heavy use of AI or uncredited copying. Team struggles to explain how specific functions were implemented. |
+| **[Peer] UI/UX & Polish** | The app's appearance is clean, professional, and creative. Peers found it intuitive to use with no visual or audio glitches. | Appearance is well-organized and neat. Minor UI glitches are present but do not hinder the user experience. | Appearance is poor or disorganized. Usage is difficult, and the interface lacks professional polish. |
+
+
+# Ongoing
 
 ## <a name='Professionalism & Classwork'></a>Professionalism & Classwork
 
 This section will be ongoing through the entire project lifecycle and count towards the final grade.
+
+Both categories of professionalism and classwork will be graded as separated categories in the gradebook.
 
 | **Criteria**               | **Exemplary (100%)** | **Satisfactory (80%)** | **Not Yet (60%)** | **Unassessable (0%)** |
 |---------------------------|----------------------|------------------------|-------------------|------------------|
