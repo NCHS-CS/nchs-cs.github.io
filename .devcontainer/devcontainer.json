@@ -13,6 +13,15 @@
         "rebornix.Ruby",
         "ms-azuretools.vscode-docker"
       ]
-    }
+    },
+    "codespaces": {
+      "repositories": {
+        "NCHS-CS/cse163-nchs": {
+          "permissions": {
+            "contents": "write"
+          }
+        }
+      }
+    }    
   }
 }
