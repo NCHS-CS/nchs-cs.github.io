@@ -4088,13 +4088,9 @@ undeclared-identifiers@^1.1.2:
     simple-concat "^1.0.0"
     xtend "^4.0.1"
 
-underscore@>=1.8.3:
-  version "1.9.2"
-  resolved "https://registry.npmjs.org/underscore/-/underscore-1.9.2.tgz"
-
-underscore@^1.13.2:
-  version "1.13.2"
-  resolved "https://registry.npmjs.org/underscore/-/underscore-1.13.2.tgz"
+underscore@>=1.8.3, underscore@^1.13.8:
+  version "1.13.8"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.8.tgz#a93a21186c049dbf0e847496dba72b7bd8c1e92b"
 
 undertaker-registry@^1.0.0:
   version "1.0.1"
