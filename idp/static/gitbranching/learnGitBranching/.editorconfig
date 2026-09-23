@@ -1,5 +1,0 @@
-root = true  # Top-most editorconfig file
-
-[*]
-indent_style = space
-indent_size = 2

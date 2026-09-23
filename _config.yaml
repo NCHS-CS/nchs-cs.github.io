@@ -42,6 +42,7 @@ plugins:
 
 include:
   - idp/static
+  - google-java-style-guide.pdf
 
 keep_files:
   - idp/static
