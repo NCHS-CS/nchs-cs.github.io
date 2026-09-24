@@ -8,7 +8,7 @@ nav_order: 20
 
 {% tabs faq_sections %}
 
-{% tab faq_sections FAQ %}
+{% tab faq_sections General %}
 
 | Problem | Try This |
 | --- | --- |
@@ -468,6 +468,18 @@ This should open up a browser tab to connect to VNC.
 Click connect and you should now be able to run your GUI application from codespaces and have it come up in there.
 
 ![Calculator Proj Image](assets/images/faq/calculator-proj.png)
+{% endtab %}
+
+{% tab faq_sections Classroom50 %}
+
+## Classroom50
+
+Your teacher will provide you with the link for your specific assignments (The only exception here is for the IDP nchs-idp assignment below. You should see the following screen (if you are not yet signed into GitHub).
+
+![Classroom50](assets/images/faq/classroom50.png)
+
+Once you’ve accepted an assignment you will have your own private repository for this assignment.
+
 {% endtab %}
 
 {% endtabs %}
