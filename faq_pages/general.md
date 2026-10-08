@@ -1,8 +1,9 @@
 ---
-layout: custom_default
+layout: bare
 title: "General"
-permalink: /hidden-page/
-index: false
+permalink: /faq/general/
+nav_exclude: true
+search_exclude: true
 ---
 
 | Problem | Try This |

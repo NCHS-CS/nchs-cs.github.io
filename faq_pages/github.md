@@ -1,8 +1,9 @@
 ---
-layout: custom_default
-title: "Markdown"
-permalink: /hidden-page/
-index: false
+layout: bare
+title: "Github"
+permalink: /faq/github/
+nav_exclude: true
+search_exclude: true
 ---
 
 ## Signing up for GitHub

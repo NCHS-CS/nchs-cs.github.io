@@ -1,8 +1,9 @@
 ---
 layout: custom_default
-title: "General"
-permalink: /hidden-page/
-index: false
+title: "Java"
+permalink: /faq/java/
+nav_exclude: true
+search_exclude: true
 ---
 
 ## Remove Redundant Launch Configurations
@@ -122,27 +123,39 @@ Javadocs are required for most homework assignments. They are an industry standa
 
 ### Commenting your Code for Javadoc
 
-The first step you must take is to include javadoc comments in your code. A javadoc comment begins with `/**` and ends with `*/`. At a minimum your javadoc comments should include a description of each method, the parameters (@params) and any return parameter (@return) described - typically with a single line comment. You may use html markup such as `<a>` or `<p>` tags in the example below, but is not required. The items in bold below are required for most comments. It's not required to comment more details than necessary (e.g. for a getter or setter, the function is obvious so often you may skip the description).
+The first step you must take is to include javadoc comments in your code. A javadoc comment begins with `“/**”` and ends with `“*/”`. At a minimum your javadoc comments for methods should include a description of each method, the parameters (@params) and any return parameter (@return) described - typically with a single line comment. You may use html markup such as `<a>` or `<p>` tags in the example below, but is not required.
+
+You must also have the following comment block at the top of each class you create. Do not leave any blank lines after this so this comment is connected to the class you are commenting.
 
 ```java
-/**
- * Returns an Image object that can then be painted on the screen.
- * The url argument must specify an absolute {@link URL}.
- * The name argument is a specifier that is relative to the url argument.
- * <p>
- * This method always returns immediately, whether or not the
- * image exists. When this applet attempts to draw the image on
- * the screen, the data will be loaded. The graphics primitives
- * that draw the image will incrementally paint on the screen.
- *
- * @param url an absolute URL giving the base location of the image
- * @param name the location of the image, relative to the url argument
- * @return the image at the specified URL
- * @throws Exception any exception that may be thrown by this method
- */
+/** <p><b>Responsibility</b>:
+*   - __What is this class responsible for?__ 
+* </p>
+*
+* @doc.implNote
+* <pre>
+* IS-A:
+*   - __Superclass, or "Object" if none__
+*
+* HAS-A:
+*   - __Important fields or contained classes__
+*
+* DOES:
+*   - __Interfaces it implements / behaviors__
+*
+* Notes:
+*   - __Any design decisions, invariants, or assumptions__
+* </pre>
+*
+* @doc.collaborators __Other classes it works with or depends on__
+*
+* @doc.testing __How was/is this class tested? (e.g. Manually, Junit etc)__
+*/
 ```
 
 See this [guide](https://www3.cs.stonybrook.edu/~cse214/Javadoc.htm) for a beginners guide to the documentation on javadoc parameters and [the full javadoc 23 specification](https://docs.oracle.com/en/java/javase/23/javadoc/).
+
+You can use the following tasks.json file in your vscode project to run the javadoc command: [tasks.json](https://drive.google.com/open?id=1D_cXwXAYBblGjW8HMeR2QVg360J2H9YL)
 
 ### VS Code Tools to Help
 

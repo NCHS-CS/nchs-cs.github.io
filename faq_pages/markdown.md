@@ -1,8 +1,9 @@
 ---
-layout: custom_default
+layout: bare
 title: "Markdown"
-permalink: /hidden-page/
-index: false
+permalink: /faq/markdown/
+nav_exclude: true
+search_exclude: true
 ---
 
 ## Markdown
