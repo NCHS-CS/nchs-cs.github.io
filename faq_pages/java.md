@@ -10,7 +10,7 @@ search_exclude: true
 
 Every time you hit the "play" button on a java file VS code creates a new project name specific to the computer you are on. You get a message that the project name is not a valid project if you try and run the configuration from Run and Debug too:
 
-(Insert photo here)
+![Java Error](assets/images/faq/java-error.png)
 
 Edit your launch.json and simply remove the **projectName** setting; it's not necessary.
 
