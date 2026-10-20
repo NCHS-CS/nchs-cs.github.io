@@ -7,7 +7,7 @@ layout: none
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<base href="{{ '/' | relative_url }}">
+	<base href="{{ '/' | relative_url }}" {% if page.url contains '/faq/' %}target="_blank"{% endif %}>
 	<title>{{ page.title }} | {{ site.title }}</title>
 	<link rel="stylesheet" href="/assets/css/just-the-docs-default.css">
 	<link rel="stylesheet" href="/assets/css/custom.css">

@@ -32,6 +32,12 @@ nav_order: 20
 
 {% endtab %}
 
+{% tab faq_sections PMD %}
+
+{% faq_include faq_pages/pmd.md %}
+
+{% endtab %}
+
 {% tab faq_sections Java FX %}
 
 {% faq_include faq_pages/java-fx.md %}
