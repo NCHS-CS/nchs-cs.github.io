@@ -1,0 +1,9 @@
+Running Websites:
+
+APT Website:
+bundle exec jekyll serve --port 4000
+
+IDP Website:
+cd external/cse163; npm install -g mystmd; myst build --html; cd _build/html; python -m http.server 8000
+
+Last Update from Google Doc: 10/20/2026

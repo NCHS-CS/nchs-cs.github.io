@@ -40,8 +40,19 @@ plugins:
   # - jekyll-spaceship # turned off since gemini told me that spaceship doesn't run on github pages?? not sure.
   - jekyll-redirect-from
 
+jekyll-spaceship:
+  processors:
+    - mathjax-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - media-processor
+    - emoji-processor
+    - element-processor
+
 include:
   - idp/static
+  - google-java-style-guide.pdf
 
 keep_files:
   - idp/static
