@@ -10,7 +10,7 @@ aux_links:
 
 nav_external_links:
   - title: LearnGitBranching
-    url: https://nchs-cs.github.io/idp/static/gitbranching/learnGitBranching
+    url: https://learngitbranching.js.org/
     opens_in_new_tab: true
 
 mermaid:
